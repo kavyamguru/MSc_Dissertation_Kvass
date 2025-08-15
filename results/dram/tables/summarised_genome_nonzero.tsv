@@ -1,0 +1,688 @@
+gene_id	gene_description	pathway	topic_ecosystem	category	subcategory	E1	F1	B1	D1	C1	AA
+K01647	citrate synthase [EC:2.3.3.1] [RN:R00351]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	3.0	3.0	2.0	3.0	3.0	3.0
+K01682	aconitate hydratase [EC:4.2.1.3] [RN:R01325 R01900 R01324]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	4.0	4.0	2.0	4.0	4.0	4.0
+K00031	isocitrate dehydrogenase [EC:1.1.1.42 1.1.1.41] [RN:R01899 R00268 R00267 R00709]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	3.0	3.0	1.0	3.0	3.0	3.0
+K00030	isocitrate dehydrogenase [EC:1.1.1.42 1.1.1.41] [RN:R01899 R00268 R00267 R00709]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	2.0	2.0	1.0	2.0	2.0	2.0
+K00164	2-oxoglutarate dehydrogenase complex [EC:1.2.4.2 2.3.1.61 1.8.1.4] [RN:R00621 R03316 R02570 R07618]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	1.0	1.0	1.0	1.0	1.0	1.0
+K00658	2-oxoglutarate dehydrogenase complex [EC:1.2.4.2 2.3.1.61 1.8.1.4] [RN:R00621 R03316 R02570 R07618]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	1.0	1.0	1.0	1.0	1.0	1.0
+K00382	2-oxoglutarate dehydrogenase complex [EC:1.2.4.2 2.3.1.61 1.8.1.4] [RN:R00621 R03316 R02570 R07618]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	9.0	7.0	8.0	9.0	9.0	6.0
+K01899	succinyl-CoA synthetase [EC:6.2.1.4 6.2.1.5] [RN:R00405 R00432 R00727]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	1.0	1.0	0.0	1.0	1.0	1.0
+K01900	succinyl-CoA synthetase [EC:6.2.1.4 6.2.1.5] [RN:R00405 R00432 R00727]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	1.0	1.0	1.0	1.0	1.0	1.0
+K18118	succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18] [RN:R10343]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	1.0	1.0	1.0	1.0	1.0	1.0
+K00234	succinate dehydrogenase [EC:1.3.5.1] [RN:R02164]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	6.0	5.0	4.0	6.0	6.0	6.0
+K00235	succinate dehydrogenase [EC:1.3.5.1] [RN:R02164]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	1.0	1.0	1.0	1.0	1.0	1.0
+K00236	succinate dehydrogenase [EC:1.3.5.1] [RN:R02164]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	2.0	2.0	1.0	2.0	2.0	2.0
+K00237	succinate dehydrogenase [EC:1.3.5.1] [RN:R02164]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	3.0	3.0	2.0	3.0	3.0	3.0
+K00239	succinate dehydrogenase / fumarate reductase [EC:1.3.5.1 1.3.5.4] [RN:R02164]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	1.0	0.0	2.0	1.0	1.0	1.0
+K01676	fumarate hydratase [EC:4.2.1.2] [RN:R01082]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	2.0	0.0	2.0	2.0	2.0	2.0
+K01679	fumarate hydratase [EC:4.2.1.2] [RN:R01082]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	4.0	4.0	4.0	4.0	4.0	3.0
+K00026	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	3.0	3.0	3.0	3.0	3.0	3.0
+K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	9.0	4.0	9.0	9.0	9.0	8.0
+K01647	citrate synthase [EC:2.3.3.1] [RN:R00351]	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	carbon utilization	central carbon	TCA	3.0	3.0	2.0	3.0	3.0	3.0
+K01682	aconitate hydratase [EC:4.2.1.3] [RN:R01325 R01900 R01324]	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	carbon utilization	central carboTCA	4.0	4.0	2.0	4.0	4.0	4.0
+K00031	isocitrate dehydrogenase [EC:1.1.1.42 1.1.1.41] [RN:R01899 R00268 R00267 R00709]	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	carbon utilization	central carbon	TCA	3.0	3.0	1.0	3.0	3.0	3.0
+K00030	isocitrate dehydrogenase [EC:1.1.1.42 1.1.1.41] [RN:R01899 R00268 R00267 R00709]	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	carbon utilization	central carbon	TCA	2.0	2.0	1.0	2.0	2.0	2.0
+K00164	2-oxoglutarate dehydrogenase [EC:1.2.4.2 2.3.1.61 1.8.1.4] [RN:R00621 R03316 R02570 R07618]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	1.0	1.0	1.0	1.0	1.0	1.0
+K00658	2-oxoglutarate dehydrogenase [EC:1.2.4.2 2.3.1.61 1.8.1.4] [RN:R00621 R03316 R02570 R07618]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	1.0	1.0	1.0	1.0	1.0	1.0
+K00382	2-oxoglutarate dehydrogenase [EC:1.2.4.2 2.3.1.61 1.8.1.4] [RN:R00621 R03316 R02570 R07618]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	9.0	7.0	8.0	9.0	9.0	6.0
+K01899	succinyl-CoA synthetase [EC:6.2.1.4 6.2.1.5] [RN:R00405 R00432 R00727]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	1.0	1.0	0.0	1.0	1.0	1.0
+K01900	succinyl-CoA synthetase [EC:6.2.1.4 6.2.1.5] [RN:R00405 R00432 R00727]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	1.0	1.0	1.0	1.0	1.0	1.0
+K18118	succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18] [RN:R10343]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carboTCA	1.0	1.0	1.0	1.0	1.0	1.0
+K00234	succinate dehydrogenase [EC:1.3.5.1] [RN:R02164]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	6.0	5.0	4.0	6.0	6.0	6.0
+K00235	succinate dehydrogenase [EC:1.3.5.1] [RN:R02164]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	1.0	1.0	1.0	1.0	1.0	1.0
+K00236	succinate dehydrogenase [EC:1.3.5.1] [RN:R02164]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	2.0	2.0	1.0	2.0	2.0	2.0
+K00237	succinate dehydrogenase [EC:1.3.5.1] [RN:R02164]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	3.0	3.0	2.0	3.0	3.0	3.0
+K00239	succinate dehydrogenase / fumarate reductase [EC:1.3.5.1 1.3.5.4] [RN:R02164]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	1.0	0.0	2.0	1.0	1.0	1.0
+K01676	fumarate hydratase [EC:4.2.1.2] [RN:R01082]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	2.0	0.0	2.0	2.0	2.0	2.0
+K01679	fumarate hydratase [EC:4.2.1.2] [RN:R01082]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	4.0	4.0	4.0	4.0	4.0	3.0
+K00026	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	3.0	3.0	3.0	3.0	3.0	3.0
+K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	carbon utilization	central carbon	TCA	9.0	4.0	9.0	9.0	9.0	8.0
+K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	carbon utilization	central carbon	TCA	9.0	4.0	9.0	9.0	9.0	8.0
+K00027	malate dehydrogenase (oxaloacetate-decarboxylating)	TCA /Reductive TCA	carbon utilization	central carbon	TCA	5.0	3.0	4.0	4.0	5.0	3.0
+K00036	glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363 1.1.1.388] [RN:R02736 R10907]	Pentose phosphate pathway (Pentose phosphate cycle)	carbon utilization	central carbon	pentose pathway	3.0	2.0	4.0	3.0	3.0	2.0
+K01057	6-phosphogluconolactonase [EC:3.1.1.31] [RN:R02035]	Pentose phosphate pathway (Pentose phosphate cycle)	carbon utilization	central carbon	pentose pathway	6.0	5.0	6.0	6.0	6.0	5.0
+K07404	6-phosphogluconolactonase [EC:3.1.1.31] [RN:R02035]	Pentose phosphate pathway (Pentose phosphate cycle)	carbon utilization	central carbon	pentose pathway	2.0	1.0	2.0	2.0	2.0	1.0
+K00033	6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] [RN:R01528 R10221]	Pentose phosphate pathway (Pentose phosphate cycle)	carbon utilization	central carbopentose pathway	6.0	4.0	5.0	6.0	6.0	4.0
+K01783	ribulose-phosphate 3-epimerase [EC:5.1.3.1] [RN:R01529]	Pentose phosphate pathway (Pentose phosphate cycle)	carbon utilization	central carbon	pentose pathway	3.0	2.0	2.0	3.0	3.0	2.0
+K01807	ribose 5-phosphate isomerase [EC:5.3.1.6] [RN:R01056]	Pentose phosphate pathway (Pentose phosphate cycle)	carbon utilization	central carbon	pentose pathway	4.0	2.0	4.0	4.0	4.0	3.0
+K00615	transketolase [EC:2.2.1.1] [RN:R01641]	Pentose phosphate pathway (Pentose phosphate cycle)	carbon utilization	central carbon	pentose pathway	6.0	4.0	4.0	6.0	6.0	5.0
+K00616	transaldolase [EC:2.2.1.2] [RN:R01827]	Pentose phosphate pathway (Pentose phosphate cycle)	carbon utilization	central carbon	pentose pathway	3.0	3.0	3.0	3.0	3.0	2.0
+K01810	glucose-6-phosphate isomerase [EC:5.3.1.9] [RN:R02740 R02739]	Pentose phosphate pathway (Pentose phosphate cycle)	carbon utilization	central carbon	pentose pathway	3.0	2.0	3.0	3.0	3.0	2.0
+K00948	ribose-phosphate pyrophosphokinase [EC:2.7.6.1] [RN:R01049]	PRPP biosynthesis, ribose 5P => PRPP	carbon utilization	central carbon	pentose pathway	9.0	7.0	7.0	9.0	9.0	7.0
+K00036	glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363 1.1.1.388] [RN:R02736 R10907]	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	carbon utilization	central carbon	pentose pathway	3.0	2.0	4.0	3.0	3.0	2.0
+K01057	6-phosphogluconolactonase [EC:3.1.1.31] [RN:R02035]	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	carbon utilization	central carbon	pentose pathway	6.0	5.0	6.0	6.0	6.0	5.0
+K07404	6-phosphogluconolactonase [EC:3.1.1.31] [RN:R02035]	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	carbon utilization	central carbon	pentose pathway	2.0	1.0	2.0	2.0	2.0	1.0
+K00033	6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] [RN:R01528 R10221]	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	carbon utilization	central carbon	pentose pathway	6.0	4.0	5.0	6.0	6.0	4.0
+K00615	transketolase [EC:2.2.1.1] [RN:R01830 R01641]	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	carbon utilization	central carbon	pentose pathway	6.0	4.0	4.0	6.0	6.0	5.0
+K00616	transaldolase [EC:2.2.1.2] [RN:R01827]	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	carbon utilization	central carbon	pentose pathway	3.0	3.0	3.0	3.0	3.0	2.0
+K01783	ribulose-phosphate 3-epimerase [EC:5.1.3.1] [RN:R01529]	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	carbon utilization	central carbopentose pathway	3.0	2.0	2.0	3.0	3.0	2.0
+K01807	ribose 5-phosphate isomerase [EC:5.3.1.6] [RN:R01056]	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	carbon utilization	central carbopentose pathway	4.0	2.0	4.0	4.0	4.0	3.0
+K08094	6-phospho-3-hexuloisomerase [EC:5.3.1.27] [RN:R09780]	Pentose phosphate pathway, archaea, fructose 6P => ribose 5P	carbon utilization	central carbon	pentose pathway	1.0	1.0	1.0	1.0	1.0	0.0
+K08093	3-hexulose-6-phosphate synthase [EC:4.1.2.43] [RN:R05338]	Pentose phosphate pathway, archaea, fructose 6P => ribose 5P	carbon utilization	central carbon	pentose pathway	1.0	1.0	1.0	1.0	1.0	0.0
+K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6] [RN:R01056]	Pentose phosphate pathway, archaea, fructose 6P => ribose 5P	carbon utilization	central carbon	pentose pathway	4.0	2.0	4.0	4.0	4.0	3.0
+K01053	gluconolactonase	Pentose phosphate pathway	carbon utilization	central carbon	pentose pathway	1.0	1.0	0.0	1.0	1.0	1.0
+K00844	hexokinase/glucokinase [EC:2.7.1.1 2.7.1.2] [RN:R01786]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	5.0	5.0	3.0	5.0	5.0	5.0
+K00845	hexokinase/glucokinase [EC:2.7.1.1 2.7.1.2] [RN:R01786]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	2.0	1.0	2.0	2.0	2.0	1.0
+K00886	polyphosphate glucokinase [EC:2.7.1.63] [RN:R02189]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	0.0	1.0	0.0	0.0	0.0	1.0
+K01810	glucose-6-phosphate isomerase [EC:5.3.1.9] [RN:R02740]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	3.0	2.0	3.0	3.0	3.0	2.0
+K00850	6-phosphofructokinase [EC:2.7.1.11] [RN:R04779]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	3.0	2.0	2.0	3.0	3.0	3.0
+K01624	fructose-bisphosphate aldolase [EC:4.1.2.13] [RN:R01070]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	2.0	1.0	2.0	2.0	2.0	2.0
+K01803	triosephosphate isomerase [EC:5.3.1.1] [RN:R01015]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	3.0	2.0	3.0	3.0	3.0	2.0
+K00134	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12 1.2.1.59] [RN:R01061 R01063]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	5.0	6.0	4.0	6.0	6.0	4.0
+K00927	phosphoglycerate kinase [EC:2.7.2.3] [RN:R01512]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	3.0	2.0	3.0	3.0	3.0	2.0
+K01834	phosphoglycerate mutase [EC:5.4.2.11 5.4.2.12] [RN:R01518]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	22.0	13.0	21.0	22.0	22.0	15.0
+K15634	phosphoglycerate mutase [EC:5.4.2.11 5.4.2.12] [RN:R01518]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	4.0	1.0	6.0	4.0	4.0	4.0
+K01689	enolase [EC:4.2.1.11] [RN:R00658]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	6.0	4.0	5.0	6.0	6.0	7.0
+K00873	pyruvate kinase [EC:2.7.1.40] [RN:R00200]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	5.0	3.0	5.0	5.0	5.0	4.0
+K01803	triosephosphate isomerase [EC:5.3.1.1] [RN:R01015]	Glycolysis, core module involving three-carbon compounds	carbon utilization	central carbon	glycolysis	3.0	2.0	3.0	3.0	3.0	2.0
+K00134	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12 1.2.1.59] [RN:R01061 R01063]	Glycolysis, core module involving three-carbon compounds	carbon utilization	central carbon	glycolysis	5.0	6.0	4.0	6.0	6.0	4.0
+K00927	phosphoglycerate kinase [EC:2.7.2.3] [RN:R01512]	Glycolysis, core module involving three-carbon compounds	carbon utilization	central carbon	glycolysis	3.0	2.0	3.0	3.0	3.0	2.0
+K01834	phosphoglycerate mutase [EC:5.4.2.11 5.4.2.12] [RN:R01518]	Glycolysis, core module involving three-carbon compounds	carbon utilization	central carbon	glycolysis	22.0	13.0	21.0	22.0	22.0	15.0
+K15634	phosphoglycerate mutase [EC:5.4.2.11 5.4.2.12] [RN:R01518]	Glycolysis, core module involving three-carbon compounds	carbon utilization	central carbon	glycolysis	4.0	1.0	6.0	4.0	4.0	4.0
+K01689	enolase [EC:4.2.1.11] [RN:R00658]	Glycolysis, core module involving three-carbon compounds	carbon utilization	central carbon	glycolysis	6.0	4.0	5.0	6.0	6.0	7.0
+K00873	pyruvate kinase [EC:2.7.1.40] [RN:R00200]	Glycolysis, core module involving three-carbon compounds	carbon utilization	central carbon	glycolysis	5.0	3.0	5.0	5.0	5.0	4.0
+K01610	phosphoenolpyruvate carboxykinase [EC:4.1.1.32 4.1.1.49] [RN:R00431 R00726 R00341]	Gluconeogenesis, oxaloacetate => fructose-6P	carbon utilization	central carboglycolysis	3.0	2.0	3.0	3.0	3.0	2.0
+K01689	enolase [EC:4.2.1.11] [RN:R00658]	Gluconeogenesis, oxaloacetate => fructose-6P	carbon utilization	central carbon	glycolysis	6.0	4.0	5.0	6.0	6.0	7.0
+K01834	phosphoglycerate mutase [EC:5.4.2.11 5.4.2.12] [RN:R01518]	Gluconeogenesis, oxaloacetate => fructose-6P	carbon utilization	central carbon	glycolysis	22.0	13.0	21.0	22.0	22.0	15.0
+K15634	phosphoglycerate mutase [EC:5.4.2.11 5.4.2.12] [RN:R01518]	Gluconeogenesis, oxaloacetate => fructose-6P	carbon utilization	central carbon	glycolysis	4.0	1.0	6.0	4.0	4.0	4.0
+K00927	phosphoglycerate kinase [EC:2.7.2.3] [RN:R01512]	Gluconeogenesis, oxaloacetate => fructose-6P	carbon utilization	central carbon	glycolysis	3.0	2.0	3.0	3.0	3.0	2.0
+K00134	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12 1.2.1.59] [RN:R01061 R01063]	Gluconeogenesis, oxaloacetate => fructose-6P	carbon utilization	central carboglycolysis	5.0	6.0	4.0	6.0	6.0	4.0
+K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1] [RN:R01015]	Gluconeogenesis, oxaloacetate => fructose-6P	carbon utilization	central carbon	glycolysis	3.0	2.0	3.0	3.0	3.0	2.0
+K01624	fructose-bisphosphate aldolase [EC:4.1.2.13] [RN:R01070]	Gluconeogenesis, oxaloacetate => fructose-6P	carbon utilization	central carbon	glycolysis	2.0	1.0	2.0	2.0	2.0	2.0
+K03841	fructose-1,6-bisphosphatase [EC:3.1.3.11] [RN:R04780]	Gluconeogenesis, oxaloacetate => fructose-6P	carbon utilization	central carbon	glycolysis	1.0	1.0	1.0	1.0	1.0	1.0
+K01086	fructose-1,6-bisphosphatase [EC:3.1.3.11] [RN:R04780]	Gluconeogenesis, oxaloacetate => fructose-6P	carbon utilization	central carbon	glycolysis	1.0	1.0	1.0	1.0	1.0	1.0
+K00036	glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] [RN:R02736 R10907]	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	carbon utilization	central carbon	glycolysis	3.0	2.0	4.0	3.0	3.0	2.0
+K01057	6-phosphogluconolactonase [EC:3.1.1.31] [RN:R02035]	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	carbon utilization	central carbon	glycolysis	6.0	5.0	6.0	6.0	6.0	5.0
+K07404	6-phosphogluconolactonase [EC:3.1.1.31] [RN:R02035]	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	carbon utilization	central carbon	glycolysis	2.0	1.0	2.0	2.0	2.0	1.0
+K01625	2-dehydro-3-deoxyphosphogluconate aldolase [EC:4.1.2.14] [RN:R05605]	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	carbon utilization	central carbon	glycolysis	2.0	1.0	1.0	2.0	2.0	1.0
+K01647	citrate synthase [EC:2.3.3.1] [RN:R00351]	Glyoxylate cycle	carbon utilization	central carbon	glycolysis	3.0	3.0	2.0	3.0	3.0	3.0
+K01682	aconitate hydratase [EC:4.2.1.3] [RN:R01325 R01900]	Glyoxylate cycle	carbon utilization	central carbon	glycolysis	4.0	4.0	2.0	4.0	4.0	4.0
+K01637	isocitrate lyase [EC:4.1.3.1] [RN:R00479]	Glyoxylate cycle	carbon utilization	central carbon	glycolysis	2.0	2.0	2.0	2.0	2.0	2.0
+K01638	malate synthase [EC:2.3.3.9] [RN:R00472]	Glyoxylate cycle	carbon utilization	central carbon	glycolysis	2.0	2.0	1.0	2.0	2.0	2.0
+K00026	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Glyoxylate cycle	carbon utilization	central carbon	glycolysis	3.0	3.0	3.0	3.0	3.0	3.0
+K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Glyoxylate cycle	carbon utilization	central carbon	glycolysis	9.0	4.0	9.0	9.0	9.0	8.0
+K01625	2-dehydro-3-deoxyphosphogluconate aldolase [EC:4.1.2.14] [RN:R05605]	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P	carbon utilization	central carbon	glycolysis	2.0	1.0	1.0	2.0	2.0	1.0
+K00134	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] [RN:R01061]	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P	carbon utilization	central carbon	glycolysis	5.0	6.0	4.0	6.0	6.0	4.0
+K00927	phosphoglycerate kinase [EC:2.7.2.3] [RN:R01512]	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P	carbon utilization	central carboglycolysis	3.0	2.0	3.0	3.0	3.0	2.0
+K01631	2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21] [RN:R01064]	D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P	carbon utilization	central carbon	glycolysis	2.0	1.0	1.0	2.0	2.0	1.0
+K00134	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] [RN:R01061]	D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P	carbon utilization	central carbon	glycolysis	5.0	6.0	4.0	6.0	6.0	4.0
+K00927	phosphoglycerate kinase [EC:2.7.2.3] [RN:R01512]	D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P	carbon utilization	central carbon	glycolysis	3.0	2.0	3.0	3.0	3.0	2.0
+K01812	glucuronate isomerase [EC:5.3.1.12] [RN:R01983]	D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P	carbon utilization	central carbon	glycolysis	2.0	2.0	2.0	2.0	2.0	0.0
+K01625	2-dehydro-3-deoxy-phosphogluconate aldolase [EC:4.1.2.14] [RN:R05605]	D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P	carbon utilization	central carbon	glycolysis	2.0	1.0	1.0	2.0	2.0	1.0
+K01785	aldose 1-epimerase [EC:5.1.3.3] [RN:R10619]	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	carbon utilization	central carbon	glycolysis	10.0	6.0	8.0	10.0	10.0	7.0
+K00849	galactokinase [EC:2.7.1.6] [RN:R01092]	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	carbon utilization	central carbon	glycolysis	4.0	3.0	3.0	4.0	4.0	3.0
+K00965	UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12] [RN:R00955]	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	carbon utilization	central carbon	glycolysis	4.0	2.0	4.0	4.0	4.0	3.0
+K01784	UDP-glucose 4-epimerase [EC:5.1.3.2] [RN:R00291]	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	carbon utilization	central carbon	glycolysis	2.0	2.0	3.0	2.0	2.0	1.0
+K00163	pyruvate dehydrogenase complex [EC:1.2.4.1 2.3.1.12 1.8.1.4] [RN:R00209]	Pyruvate oxidation, pyruvate => acetyl-CoA	carbon utilization	pyruvate metabolism	5.0	3.0	5.0	5.0	5.0	4.0
+K00161	pyruvate dehydrogenase complex [EC:1.2.4.1 2.3.1.12 1.8.1.4] [RN:R00209]	Pyruvate oxidation, pyruvate => acetyl-CoA	carbon utilization	pyruvate metabolism	3.0	2.0	2.0	3.0	3.0	2.0
+K00162	pyruvate dehydrogenase complex [EC:1.2.4.1 2.3.1.12 1.8.1.4] [RN:R00209]	Pyruvate oxidation, pyruvate => acetyl-CoA	carbon utilization	pyruvate metabolism	2.0	1.0	3.0	2.0	2.0	2.0
+K00627	pyruvate dehydrogenase complex [EC:1.2.4.1 2.3.1.12 1.8.1.4] [RN:R00209]	Pyruvate oxidation, pyruvate => acetyl-CoA	carbon utilization	pyruvate metabolism	5.0	4.0	5.0	5.0	5.0	4.0
+K00382	pyruvate dehydrogenase complex [EC:1.2.4.1 2.3.1.12 1.8.1.4] [RN:R00209]	Pyruvate oxidation, pyruvate => acetyl-CoA	carbon utilization	pyruvate metabolism	9.0	7.0	8.0	9.0	9.0	6.0
+K13997	pyruvate dehydrogenase complex [EC:1.2.4.1 2.3.1.12 1.8.1.4] [RN:R00209]	Pyruvate oxidation, pyruvate => acetyl-CoA	carbon utilization	pyruvate metabolism	1.0	1.0	1.0	1.0	1.0	1.0
+K03737	pyruvate:ferredoxin oxidoreductase [EC:1.2.7.1] [RN:R01196]	Pyruvate oxidation, pyruvate => acetyl-CoA	carbon utilization	pyruvate metabolism		0.0	0.0	1.0	0.0	0.0	0.0
+K00625	phosphate acetyltransferase [EC:2.3.1.8] [RN:R00230]	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	carbon utilization	pyruvate metabolism		2.0	1.0	2.0	2.0	2.0	1.0
+K13788	phosphate acetyltransferase [EC:2.3.1.8] [RN:R00230]	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	carbon utilization	pyruvate metabolism		2.0	1.0	2.0	2.0	2.0	1.0
+K00925	acetate kinase [EC:2.7.2.1] [RN:R00315]	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	carbon utilization	pyruvate metabolism		7.0	4.0	7.0	7.0	7.0	3.0
+K00132	acetaldehyde dehydrogenase (acetylating)	fermentation-	carbon utilization	pyruvate metabolism		1.0	0.0	1.0	1.0	1.0	1.0
+K13954	alcohol dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		1.0	1.0	1.0	1.0	1.0	1.0
+K00001	alcohol dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		4.0	3.0	2.0	4.0	4.0	4.0
+K00016	L-lactate dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		8.0	2.0	9.0	8.0	8.0	6.0
+K03778	D-lactate dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		4.0	1.0	3.0	4.0	4.0	3.0
+K00656	formate acetyltransferase (pyruvate-formate lyase )	pyruvate metabolism	carbon utilization	pyruvate metabolism		2.0	0.0	1.0	2.0	2.0	2.0
+K04069	pyruvate formate lyase activating enzyme	pyruvate metabolism	carbon utilization	pyruvate metabolism		1.0	0.0	1.0	1.0	1.0	1.0
+K01512	acylphosphatase	pyruvate metabolism	carbon utilization	pyruvate metabolism		2.0	1.0	2.0	2.0	2.0	1.0
+K00074	3-hydroxybutyryl-CoA dehydrogenase	pyruvate metabolism	carbon utilization	pyruvate metabolism		1.0	1.0	1.0	1.0	1.0	0.0
+K00055	E1.1.1.90; aryl-alcohol dehydrogenase [EC:1.1.1.90] [RN:R05282 R05348 R05347]	Xylene degradation, xylene => methylbenzoate	carbon utilization	hydrocarbon degradation		3.0	3.0	3.0	3.0	3.0	1.0
+K00055	xylB; aryl-alcohol dehydrogenase [EC:1.1.1.90] [RN:R01763]	Toluene degradation, toluene => benzoate	carbon utilization	hydrocarbon degradation		3.0	3.0	3.0	3.0	3.0	1.0
+K00529	3-phenylpropionate/cinnamic acid dioxygenase [EC:1.14.12.19] [RN:R06783]	Trans-cinnamate degradation, trans-cinnamate => acetyl-CoA	carbon utilization	hydrocarbon degradation		4.0	2.0	4.0	4.0	4.0	3.0
+K05714	2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase [EC:3.7.1.14] [RN:R06789]	Trans-cinnamate degradation, trans-cinnamate => acetyl-CoA	carbon utilization	hydrocarbon degradation		1.0	1.0	0.0	1.0	1.0	1.0
+K01055	3-oxoadipate enol-lactonase [EC:3.1.1.24] [RN:R02991]	Catechol ortho-cleavage, catechol => 3-oxoadipate	carbon utilization	hydrocarbon degradation		2.0	2.0	2.0	2.0	2.0	2.0
+K01821	4-oxalocrotonate tautomerase [EC:5.3.2.6] [RN:R03966 R05389]	Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA	carbon utilization	hydrocarbon degradation		2.0	1.0	2.0	2.0	2.0	1.0
+K01617	4-oxalocrotonate decarboxylase [EC:4.1.1.77] [RN:R02602 R05374]	Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA	carbon utilization	hydrocarbon degradation		1.0	0.0	2.0	1.0	1.0	1.0
+K01607	pcaC; 4-carboxymuconolactone decarboxylase [EC:4.1.1.44]	protocatechuate degradation, protocatechuate => 3-oxoadipate	carbon utilization	hydrocarbon degradation		4.0	2.0	3.0	4.0	4.0	3.0
+K10218	ligK; 4-hydroxy-4-methyl-2-oxoglutarate aldolase [EC:4.1.3.17]	protocatechuate degradation, protocatechuate => oxaloacteate + pyruvate	carbon utilization	hydrocarbon degradation		1.0	1.0	0.0	1.0	1.0	1.0
+K22958	lpdC; gallate decarboxylase subunit C [EC:4.1.1.59]	anaerobic gallate degradation, gallate => 3-hydroxybutanoyl-CoA	carbon utilization	hydrocarbon degradation		2.0	1.0	2.0	2.0	2.0	1.0
+K22959	lpdB; gallate decarboxylase subunit B	anaerobic gallate degradation, gallate => 3-hydroxybutanoyl-CoA	carbon utilization	hydrocarbon degradation		2.0	2.0	2.0	2.0	2.0	1.0
+K22960	lpdD; gallate decarboxylase subunit D	anaerobic gallate degradation, gallate => 3-hydroxybutanoyl-CoA	carbon utilization	hydrocarbon degradation		2.0	2.0	2.0	2.0	2.0	1.0
+K15063	ligW; 5-carboxyvanillate decarboxylase	lignin subunit degradation	carbon utilization	hydrocarbon degradation		1.0	0.0	0.0	1.0	1.0	1.0
+K01812	glucuronate isomerase	Pentose and glucuronate interconversions	carbon utilization	sugar utilization	galacturonic acid degradation	2.0	2.0	2.0	2.0	2.0	0.0
+K01625	2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase	Pentose and glucuronate interconversions	carbon utilization (Woodcroft)	sugar utilization	galacturonic acid degradation	2.0	1.0	1.0	2.0	2.0	1.0
+K01785	aldose 1-epimerase	Galactose metabolism	carbon utilization (Woodcroft)	sugar utilization	galactose degradation	10.0	6.0	8.0	10.0	10.0	7.0
+K00849	galactokinase	Galactose metabolism	carbon utilization (Woodcroft)	sugar utilization	galactose degradation	4.0	3.0	3.0	4.0	4.0	3.0
+K00965	UDPglucose--hexose-1-phosphate uridylyltransferase	Galactose metabolism	carbon utilization (Woodcroft)	sugar utilization	galactose degradation	4.0	2.0	4.0	4.0	4.0	3.0
+K01784	UDP-glucose 4-epimerase	Galactose metabolism	carbon utilization (Woodcroft)	sugar utilization	galactose degradation	2.0	2.0	3.0	2.0	2.0	1.0
+K12111	evolved beta-galactosidase subunit alpha	Galactose metabolism	carbon utilization (Woodcroft)	sugar utilization	lactose degradation	4.0	2.0	4.0	4.0	4.0	2.0
+K01203	sucrase-isomaltase	Starch and sucrose metabolism	carbon utilization (Woodcroft)	sugar utilization	sucrose degradation	2.0	2.0	3.0	2.0	2.0	1.0
+K01193	beta-fructofuranosidase	Starch and sucrose metabolism	carbon utilization (Woodcroft)	sugar utilization	sucrose degradation	3.0	2.0	1.0	3.0	3.0	3.0
+K01187	alpha-glucosidase	Starch and sucrose metabolism	carbon utilization (Woodcroft)	sugar utilization	sucrose degradation	2.0	1.0	2.0	2.0	2.0	1.0
+K00690	sucrose phosphorylase	Starch and sucrose metabolism	carbon utilization (Woodcroft)	sugar utilization	sucrose degradation	11.0	4.0	10.0	11.0	13.0	10.0
+K00847	fructokinase	Fructose and mannose metabolism	carbon utilization (Woodcroft)	sugar utilization	fructose degradation	8.0	6.0	7.0	8.0	8.0	3.0
+K00844	hexokinase	Fructose and mannose metabolism	carbon utilization (Woodcroft)	sugar utilization	fructose degradation	5.0	5.0	3.0	5.0	5.0	5.0
+K00844	hexokinase	Fructose and mannose metabolism	carbon utilization (Woodcroft)	sugar utilization	mannose degradation	5.0	5.0	3.0	5.0	5.0	5.0
+K02794	mannose PTS system EIIAB component	Fructose and mannose metabolism	carbon utilization (Woodcroft)	sugar utilization	mannose degradation	5.0	3.0	5.0	5.0	5.0	3.0
+K02795	mannose PTS system EIIC component	Fructose and mannose metabolism	carbon utilization (Woodcroft)	sugar utilization	mannose degradation	2.0	2.0	2.0	2.0	2.0	1.0
+K02796	mannose PTS system EIID component	Fructose and mannose metabolism	carbon utilization (Woodcroft)	sugar utilization	mannose degradation	2.0	2.0	2.0	2.0	2.0	1.0
+K01809	mannose-6-phosphate isomerase	Fructose and mannose metabolism	carbon utilization (Woodcroft)	sugar utilization	mannose degradation	3.0	2.0	3.0	3.0	3.0	2.0
+K01628	L-fuculose-phosphate aldolase	Fructose and mannose metabolism	carbon utilization (Woodcroft)	sugar utilization	fucose degradation	3.0	1.0	0.0	3.0	3.0	3.0
+K01805	xylose isomerase	Fructose and mannose metabolism	carbon utilization (Woodcroft)	sugar utilization	xylose degradation (isomerase pathway)	1.0	1.0	1.0	1.0	1.0	0.0
+K00854	xylulokinase	Fructose and mannose metabolism	carbon utilization (Woodcroft)	sugar utilization	xylose degradation (isomerase pathway)	5.0	4.0	2.0	5.0	5.0	4.0
+K17743	D-xylose reductase	Pentose and glucuronate interconversions	carbon utilization (Woodcroft)	sugar utilization	xylose degradation (oxidoreductase pathway)	1.0	1.0	1.0	1.0	1.0	1.0
+K05351	D-xylulose reductase	Pentose and glucuronate interconversions	carbon utilization (Woodcroft)	sugar utilization	xylose degradation (oxidoreductase pathway)	2.0	2.0	2.0	2.0	2.0	2.0
+K00008	L-iditol 2-dehydrogenase	Pentose and glucuronate interconversions	carbon utilization (Woodcroft)	sugar utilization	xylose degradation (oxidoreductase pathway)	1.0	1.0	1.0	1.0	1.0	0.0
+K00854	xylulokinase	Pentose and glucuronate interconversions	carbon utilization (Woodcroft)	sugar utilization	xylose degradation (oxidoreductase pathway)	5.0	4.0	2.0	5.0	5.0	4.0
+K00078	dihydrodiol dehydrogenase / D-xylose 1-dehydrogenase (NADP)	Pentose and glucuronate interconversions	carbon utilization (Woodcroft)	sugar utilization	xylose degradation (weimburg/dahms)	6.0	2.0	6.0	6.0	6.0	5.0
+K14274	xylono-1,5-lactonase	Pentose and glucuronate interconversions	carbon utilization (Woodcroft)	sugar utilization	xylose degradation (weimburg/dahms)	1.0	1.0	0.0	1.0	1.0	1.0
+K01067	acetyl-CoA hydrolase [EC:3.1.2.1]	SCFA  and alcohol conversions	MISC	SCFA  and alcohol conversions		1.0	1.0	1.0	1.0	1.0	1.0
+K00101	L-lactate dehydrogenase (cytochrome) [EC:1.1.2.3]	SCFA  and alcohol conversions	MISC	SCFA  and alcohol conversions		4.0	3.0	3.0	4.0	4.0	3.0
+K13953	alcohol dehydrogenase [EC:1.1.1.1]	SCFA  and alcohol conversions	MISC	SCFA  and alcohol conversions		8.0	8.0	3.0	8.0	8.0	6.0
+K04072	alcohol dehydrogenase [EC:1.1.1.1]	SCFA  and alcohol conversions	MISC	SCFA  and alcohol conversions		3.0	1.0	3.0	3.0	3.0	2.0
+K00121	alcohol dehydrogenase [EC:1.1.1.1]	SCFA  and alcohol conversions	MISC	SCFA  and alcohol conversions		1.0	1.0	1.0	1.0	1.0	1.0
+K00958	sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529]	Assimilatory sulfate reduction, sulfate => H2S	Energy	Sulfur		2.0	1.0	1.0	2.0	2.0	2.0
+K00860	adenylylsulfate kinase [EC:2.7.1.25] [RN:R00509]	Assimilatory sulfate reduction, sulfate => H2S	Energy	Sulfur		2.0	1.0	2.0	2.0	2.0	2.0
+K00955	sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529]	Assimilatory sulfate reduction, sulfate => H2S	Energy	Sulfur		4.0	3.0	5.0	4.0	4.0	3.0
+K00956	sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529]	Assimilatory sulfate reduction, sulfate => H2S	Energy	Sulfur		11.0	8.0	8.0	11.0	11.0	8.0
+K00390	phosphoadenosine phosphosulfate reductase [EC:1.8.4.8] [RN:R02021]	Assimilatory sulfate reduction, sulfate => H2S	Energy	Sulfur		1.0	1.0	0.0	1.0	1.0	1.0
+K00380	sulfite reductase (NADPH) [EC:1.8.1.2] [RN:R00858]	Assimilatory sulfate reduction, sulfate => H2S	Energy	Sulfur		2.0	1.0	0.0	2.0	2.0	2.0
+K00381	sulfite reductase (NADPH) [EC:1.8.1.2] [RN:R00858]	Assimilatory sulfate reduction, sulfate => H2S	Energy	Sulfur		1.0	1.0	2.0	1.0	1.0	1.0
+K00956	sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529]	Dissimilatory sulfate reduction, sulfate => H2S	Energy	Sulfur		11.0	8.0	8.0	11.0	11.0	8.0
+K00958	sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529]	Dissimilatory sulfate reduction, sulfate => H2S	Energy	Sulfur		2.0	1.0	1.0	2.0	2.0	2.0
+K01011	rhodanase		Energy	Sulfur		1.0	1.0	0.0	1.0	1.0	1.0
+K00281	glycine cleavage system [RN:R01221]	Photorespiration	Energy	Photosynthesis		5.0	4.0	4.0	5.0	5.0	4.0
+K00605	glycine cleavage system [RN:R01221]	Photorespiration	Energy	Photosynthesis		1.0	1.0	0.0	1.0	1.0	1.0
+K00382	glycine cleavage system [RN:R01221]	Photorespiration	Energy	Photosynthesis		9.0	7.0	8.0	9.0	9.0	6.0
+K02437	glycine cleavage system [RN:R01221]	Photorespiration	Energy	Photosynthesis		5.0	3.0	4.0	5.0	5.0	3.0
+K00412	CYTB; ubiquinol-cytochrome c reductase cytochrome b subunit	Cytochrome bc1 complex respiratory unit	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K00413	CYC1; ubiquinol-cytochrome c reductase cytochrome c1 subunit	Cytochrome bc1 complex respiratory unit	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K00410	fbcH; ubiquinol-cytochrome c reductase cytochrome b/c1 subunit	Cytochrome bc1 complex respiratory unit	Energy	Oxygen		3.0	3.0	3.0	3.0	3.0	3.0
+K00411	UQCRFS1; ubiquinol-cytochrome c reductase iron-sulfur subunit	Cytochrome bc1 complex respiratory unit	Energy	Oxygen		1.0	1.0	0.0	1.0	1.0	1.0
+K00412	CYTB; ubiquinol-cytochrome c reductase cytochrome b subunit	Cytochrome bc1 complex	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K00413	CYC1; ubiquinol-cytochrome c reductase cytochrome c1 subunit	Cytochrome bc1 complex	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K00410	FBCH; ubiquinol-cytochrome c reductase cytochrome b/c1 subunit	Cytochrome bc1 complex	Energy	Oxygen		3.0	3.0	3.0	3.0	3.0	3.0
+K00411	UQCRFS1; ubiquinol-cytochrome c reductase iron-sulfur subunit	Cytochrome bc1 complex	Energy	Oxygen		1.0	1.0	0.0	1.0	1.0	1.0
+K00414	QCR1; ubiquinol-cytochrome c reductase core subunit 1	Cytochrome bc1 complex	Energy	Oxygen		4.0	3.0	3.0	4.0	4.0	4.0
+K00415	QCR2; ubiquinol-cytochrome c reductase core subunit 2	Cytochrome bc1 complex	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K00416	QCR6; ubiquinol-cytochrome c reductase subunit 6	Cytochrome bc1 complex	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K00417	QCR7; ubiquinol-cytochrome c reductase subunit 7	Cytochrome bc1 complex	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K00418	QCR8; ubiquinol-cytochrome c reductase subunit 8	Cytochrome bc1 complex	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K00425	cytochrome bd ubiquinol oxidase subunit I [EC:1.10.3.14]	Cytochrome bd ubiquinol oxidase	Energy	Oxygen		2.0	1.0	2.0	2.0	2.0	1.0
+K00426	cytochrome bd ubiquinol oxidase subunit II [EC:1.10.3.14]	Cytochrome bd ubiquinol oxidase	Energy	Oxygen		2.0	1.0	2.0	2.0	2.0	1.0
+K02257	COX10; protoheme IX farnesyltransferase [EC:2.5.1.-]	Cytochrome c oxidase	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K02262	COX3; cytochrome c oxidase subunit 3	Cytochrome c oxidase	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K02256	COX1; cytochrome c oxidase subunit 1 [EC:1.9.3.1]	Cytochrome c oxidase	Energy	Oxygen		5.0	5.0	5.0	5.0	5.0	5.0
+K02261	COX2; cytochrome c oxidase subunit 2	Cytochrome c oxidase	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K02263	COX4; cytochrome c oxidase subunit 4	Cytochrome c oxidase	Energy	Oxygen		2.0	2.0	0.0	2.0	2.0	2.0
+K02264	COX5A; cytochrome c oxidase subunit 5a	Cytochrome c oxidase	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K02265	COX5B; cytochrome c oxidase subunit 5b	Cytochrome c oxidase	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K02266	COX6A; cytochrome c oxidase subunit 6a	Cytochrome c oxidase	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K02267	COX6B; cytochrome c oxidase subunit 6b	Cytochrome c oxidase	Energy	Oxygen		1.0	1.0	0.0	1.0	1.0	1.0
+K02258	COX11; cytochrome c oxidase assembly protein subunit 11	Cytochrome c oxidase	Energy	Oxygen		1.0	1.0	1.0	1.0	1.0	1.0
+K02259	COX15; cytochrome c oxidase assembly protein subunit 15	Cytochrome c oxidase	Energy	Oxygen		1.0	1.0	0.0	1.0	1.0	1.0
+K02260	COX17; cytochrome c oxidase assembly protein subunit 17	Cytochrome c oxidase	Energy	Oxygen		1.0	1.0	0.0	1.0	1.0	1.0
+K00937	polyphosphate kinase ???	Cytochrome d ubiquinol oxidase	Energy	Oxygen		2.0	1.0	2.0	2.0	2.0	1.0
+K00370	nitrate reductase 1 [EC:1.7.99.-] [RN:R00798]	Denitrification, nitrate => nitrogen	Energy	Nitrogen		1.0	0.0	0.0	1.0	1.0	1.0
+K00371	nitrate reductase 1 [EC:1.7.99.-] [RN:R00798]	Denitrification, nitrate => nitrogen	Energy	Nitrogen		2.0	0.0	0.0	2.0	2.0	2.0
+K00374	nitrate reductase 1 [EC:1.7.99.-] [RN:R00798]	Denitrification, nitrate => nitrogen	Energy	Nitrogen		1.0	0.0	0.0	1.0	1.0	1.0
+K00370	respiratory nitrate reductase 1 [EC:1.7.99.-] [RN:R00798]	Dissimilatory nitrate reduction, nitrate => ammonia	Energy	Nitrogen		1.0	0.0	0.0	1.0	1.0	1.0
+K00371	respiratory nitrate reductase 1 [EC:1.7.99.-] [RN:R00798]	Dissimilatory nitrate reduction, nitrate => ammonia	Energy	Nitrogen		2.0	0.0	0.0	2.0	2.0	2.0
+K00374	respiratory nitrate reductase 1 [EC:1.7.99.-] [RN:R00798]	Dissimilatory nitrate reduction, nitrate => ammonia	Energy	Nitrogen		1.0	0.0	0.0	1.0	1.0	1.0
+K10534	nitrate reductase (NAD(P)H) [EC:1.7.1.1 1.7.1.2 1.7.1.3] [RN:R00794 R00796]	Assimilatory nitrate reduction, nitrate => ammonia	Energy	Nitrogen		1.0	1.0	0.0	1.0	1.0	1.0
+K00360	assimilatory nitrate reductase [EC:1.7.99.-] [RN:R00798]	Assimilatory nitrate reduction, nitrate => ammonia	Energy	Nitrogen		3.0	2.0	3.0	3.0	3.0	2.0
+K02575	NRT; MFS transporter, NNP family, nitrate/nitrite transporter	Nitrate assimilation	Energy	Nitrogen		2.0	1.0	1.0	2.0	2.0	2.0
+K00370	nitrite oxidoreductase [EC:1.7.99.4] [RN:R00798]	Complete nitrification, comammox, ammonia => nitrite => nitrate	Energy	Nitrogen		1.0	0.0	0.0	1.0	1.0	1.0
+K00371	nitrite oxidoreductase [EC:1.7.99.4] [RN:R00798]	Complete nitrification, comammox, ammonia => nitrite => nitrate	Energy	Nitrogen		2.0	0.0	0.0	2.0	2.0	2.0
+K00370	nxr, nitrite oxidoreductase [EC:1.7.99.4] [RN:R00798]	nitrite + ammonia => nitrogen	Energy	Nitrogen	nitrite + ammonia => nitrogen	1.0	0.0	0.0	1.0	1.0	1.0
+K00371	nxr, nitrite oxidoreductase [EC:1.7.99.4] [RN:R00798]	nitrite + ammonia => nitrogen	Energy	Nitrogen	nitrite + ammonia => nitrogen	2.0	0.0	0.0	2.0	2.0	2.0
+K00532	ferredoxin hydrogenase [EC:1.12.7.2]	hydrogenase	Energy	Hydrogenases		1.0	1.0	1.0	1.0	1.0	1.0
+K00249	acyl-CoA dehydrogenase [EC:1.3.8.7] [RN:R04432]	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	Energy	Electron transport Chain		2.0	1.0	2.0	2.0	2.0	1.0
+K05605	3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] [RN:R03157 R03158]	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	Energy	Electron transport Chain	2.0	2.0	0.0	2.0	2.0	1.0
+K00236	SDHC; succinate dehydrogenase (ubiquinone) cytochrome b560 subunit	Succinate dehydrogenase (ubiquinone)	Energy	Electron transport Chain		2.0	2.0	1.0	2.0	2.0	2.0
+K00237	SDHD; succinate dehydrogenase (ubiquinone) membrane anchor subunit	Succinate dehydrogenase (ubiquinone)	Energy	Electron transport Chain		3.0	3.0	2.0	3.0	3.0	3.0
+K00234	SDHA; succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]	Succinate dehydrogenase (ubiquinone)	Energy	Electron transport Chain		6.0	5.0	4.0	6.0	6.0	6.0
+K00235	SDHB; succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]	Succinate dehydrogenase (ubiquinone)	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K00239	sdhA; succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]	Succinate dehydrogenase, prokaryotes	Energy	Electron transport Chain		1.0	0.0	2.0	1.0	1.0	1.0
+K02111	ATPF1A; F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]	F-type ATPase, prokaryotes and chloroplasts	Energy	Electron transport Chain		5.0	4.0	3.0	5.0	5.0	4.0
+K02112	ATPF1B; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]	F-type ATPase, prokaryotes and chloroplasts	Energy	Electron transport Chain		0.0	0.0	1.0	0.0	0.0	0.0
+K02113	ATPF1D; F-type H+-transporting ATPase subunit delta	F-type ATPase, prokaryotes and chloroplasts	Energy	Electron transport Chain		3.0	2.0	3.0	3.0	3.0	2.0
+K02114	ATPF1E; F-type H+-transporting ATPase subunit epsilon	F-type ATPase, prokaryotes and chloroplasts	Energy	Electron transport Chain		3.0	2.0	2.0	3.0	3.0	2.0
+K02115	ATPF1G, atpG	F-type ATPase, prokaryotes and chloroplasts	Energy	Electron transport Chain		3.0	2.0	2.0	3.0	3.0	2.0
+K02108	ATPF0A; F-type H+-transporting ATPase subunit a	F-type ATPase, prokaryotes and chloroplasts	Energy	Electron transport Chain		3.0	2.0	3.0	3.0	3.0	2.0
+K02109	ATPF0B; F-type H+-transporting ATPase subunit b	F-type ATPase, prokaryotes and chloroplasts	Energy	Electron transport Chain		2.0	1.0	2.0	2.0	2.0	1.0
+K02110	ATPF0C; F-type H+-transporting ATPase subunit c	F-type ATPase, prokaryotes and chloroplasts	Energy	Electron transport Chain		3.0	2.0	3.0	3.0	3.0	2.0
+K02119	ATPVC; V/A-type H+-transporting ATPase subunit C	V/A-type ATPase, prokaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02120	ATPVD; V/A-type H+-transporting ATPase subunit D	V/A-type ATPase, prokaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02121	ATPVE; V/A-type H+-transporting ATPase subunit E	V/A-type ATPase, prokaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02123	ATPVI; V/A-type H+-transporting ATPase subunit I	V/A-type ATPase, prokaryotes	Energy	Electron transport Chain		2.0	2.0	2.0	2.0	2.0	2.0
+K02124	ATPVK; V/A-type H+-transporting ATPase subunit K	V/A-type ATPase, prokaryotes	Energy	Electron transport Chain		2.0	2.0	1.0	2.0	2.0	2.0
+K00351	Na+-transporting NADH:ubiquinone oxidoreductase subunit F [EC:1.6.5.-]	Na+-transporting NADH:ubiquinone oxidoreductase-	Energy	Electron transport Chain		0.0	0.0	2.0	0.0	0.0	0.0
+K03952	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 8	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K03953	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K03954	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 10	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	Energy	Electron transport Chain		2.0	1.0	2.0	2.0	2.0	1.0
+K03955	NADH dehydrogenase (ubiquinone) 1 alpha/beta subcomplex 1	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02132	ATPeF1A; F-type H+-transporting ATPase subunit alpha	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02133	ATPeF1B; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]	F-type ATPase, eukaryotes	Energy	Electron transport Chain		3.0	2.0	3.0	3.0	3.0	2.0
+K02136	ATPeF1G; F-type H+-transporting ATPase subunit gamma	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02134	ATPeF1D; F-type H+-transporting ATPase subunit delta	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02135	ATPeF1E; F-type H+-transporting ATPase subunit epsilon	F-type ATPase, eukaryotes	Energy	Electron transport Chain		0.0	0.0	1.0	0.0	0.0	0.0
+K02137	ATPeF0O; F-type H+-transporting ATPase subunit O	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02126	ATPeF0A; F-type H+-transporting ATPase subunit a	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02127	ATPeF0B; F-type H+-transporting ATPase subunit b	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02128	ATPeF0C; F-type H+-transporting ATPase subunit c	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02138	ATPeFD; F-type H+-transporting ATPase subunit d	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K01549	TIM11; F-type H+-transporting ATP synthase subunit e	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02139	ATPeFF; F-type H+-transporting ATPase subunit f	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02140	ATPeFG; F-type H+-transporting ATPase subunit g	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02141	ATPeFH; F-type H+-transporting ATPase subunit h	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02142	ATPeFJ; F-type H+-transporting ATPase subunit j	F-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02143	ATPeFK; F-type H+-transporting ATPase subunit k	F-type ATPase, eukaryotes	Energy	Electron transport Chain		2.0	2.0	1.0	2.0	2.0	2.0
+K02145	ATPeV1A; V-type H+-transporting ATPase subunit A [EC:3.6.3.14]	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02147	ATPeV1B; V-type H+-transporting ATPase subunit B	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02148	ATPeV1C; V-type H+-transporting ATPase subunit C	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02149	ATPeV1D; V-type H+-transporting ATPase subunit D	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02150	ATPeV1E; V-type H+-transporting ATPase subunit E	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02151	ATPeV1F; V-type H+-transporting ATPase subunit F	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02152	ATPeV1G; V-type H+-transporting ATPase subunit G	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02144	ATPeV1H; V-type H+-transporting ATPase subunit H	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	0.0	1.0	1.0	1.0
+K02154	ATPeV0A; V-type H+-transporting ATPase subunit a	V-type ATPase, eukaryotes	Energy	Electron transport Chain		2.0	2.0	2.0	2.0	2.0	2.0
+K03661	ATPeV0B; V-type H+-transporting ATPase 21kDa proteolipid subunit	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K02155	ATPeV0C; V-type H+-transporting ATPase 16kDa proteolipid subunit	V-type ATPase, eukaryotes	Energy	Electron transport Chain		3.0	3.0	2.0	3.0	3.0	3.0
+K02146	ATPeV0D; V-type H+-transporting ATPase subunit d	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K00925	acetate kinase [EC:2.7.2.1] [RN:R00315]	Methanogenesis, acetate => methane	Energy	C1-methane		7.0	4.0	7.0	7.0	7.0	3.0
+K00625	phosphate acetyltransferase [EC:2.3.1.8] [RN:R00230]	Methanogenesis, acetate => methane	Energy	C1-methane		2.0	1.0	2.0	2.0	2.0	1.0
+K13788	phosphate acetyltransferase [EC:2.3.1.8] [RN:R00230]	Methanogenesis, acetate => methane	Energy	C1-methane		2.0	1.0	2.0	2.0	2.0	1.0
+K01895	acetyl-CoA synthetase [EC:6.2.1.1] [RN:R00235]	Methanogenesis, acetate => methane	Energy	C1-methane		2.0	2.0	0.0	2.0	2.0	2.0
+K00320	coenzyme F420-dependent N5,N10-methenyltetrahydromethanopterin reductase [EC:1.5.99.11] [RN:R04464]	Methanogenesis, CO2 => methane	Energy	C1-methane		1.0	0.0	1.0	1.0	1.0	1.0
+K00855	phosphoribulokinase [EC:2.7.1.19] [RN:R01523]	Reductive pentose phosphate cycle (Calvin cycle)	Energy	C1		2.0	1.0	2.0	2.0	2.0	1.0
+K00927	phosphoglycerate kinase [EC:2.7.2.3] [RN:R01512]	Reductive pentose phosphate cycle (Calvin cycle)	Energy	C1		3.0	2.0	3.0	3.0	3.0	2.0
+K00134	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.13 1.2.1.59 1.2.1.12] [RN:R01061 R01063]	Reductive pentose phosphate cycle (Calvin cycle)	EnergC1		5.0	6.0	4.0	6.0	6.0	4.0
+K01624	fructose-bisphosphate aldolase [EC:4.1.2.13] [RN:R01068 R01829]	Reductive pentose phosphate cycle (Calvin cycle)	Energy	C1		2.0	1.0	2.0	2.0	2.0	2.0
+K03841	fructose-1,6-bisphosphatase [EC:3.1.3.11] [RN:R00762]	Reductive pentose phosphate cycle (Calvin cycle)	Energy	C1		1.0	1.0	1.0	1.0	1.0	1.0
+K01086	fructose-1,6-bisphosphatase [EC:3.1.3.11] [RN:R00762]	Reductive pentose phosphate cycle (Calvin cycle)	Energy	C1		1.0	1.0	1.0	1.0	1.0	1.0
+K00615	transketolase [EC:2.2.1.1] [RN:R01067 R01641]	Reductive pentose phosphate cycle (Calvin cycle)	Energy	C1		6.0	4.0	4.0	6.0	6.0	5.0
+K01807	ribose 5-phosphate isomerase [EC:5.3.1.6] [RN:R01056]	Reductive pentose phosphate cycle (Calvin cycle)	Energy	C1		4.0	2.0	4.0	4.0	4.0	3.0
+K00855	phosphoribulokinase [EC:2.7.1.19] [RN:R01523]	Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P	Energy	C1		2.0	1.0	2.0	2.0	2.0	1.0
+K00927	phosphoglycerate kinase [EC:2.7.2.3] [RN:R01512]	Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P	Energy	C1		3.0	2.0	3.0	3.0	3.0	2.0
+K00134	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.13 1.2.1.59 1.2.1.12] [RN:R01061 R01063]	Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P	Energy	C1		5.0	6.0	4.0	6.0	6.0	4.0
+K01624	fructose-bisphosphate aldolase [EC:4.1.2.13] [RN:R01068 R01829]	Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P	Energy	C1		2.0	1.0	2.0	2.0	2.0	2.0
+K03841	fructose-1,6-bisphosphatase [EC:3.1.3.11] [RN:R00762]	Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P	Energy	C1		1.0	1.0	1.0	1.0	1.0	1.0
+K01086	fructose-1,6-bisphosphatase [EC:3.1.3.11] [RN:R00762]	Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P	Energy	C1		1.0	1.0	1.0	1.0	1.0	1.0
+K00615	transketolase [EC:2.2.1.1] [RN:R01067 R01641]	Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P	Energy	C1		6.0	4.0	4.0	6.0	6.0	5.0
+K01807	ribose 5-phosphate isomerase [EC:5.3.1.6] [RN:R01056]	Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P	Energy	C1		4.0	2.0	4.0	4.0	4.0	3.0
+K03737	pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-] [RN:R01196 R10866]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		0.0	0.0	1.0	0.0	0.0	0.0
+K01007	pyruvate,water dikinase [EC:2.7.9.2] [RN:R00199]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		1.0	0.0	1.0	1.0	1.0	1.0
+K01006	pyruvate,orthophosphate dikinase [EC:2.7.9.1] [RN:R00206]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		3.0	1.0	3.0	3.0	3.0	2.0
+K01595	phosphoenolpyruvate carboxylase [EC:4.1.1.31] [RN:R00345]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		0.0	0.0	0.0	0.0	1.0	0.0
+K01958	pyruvate carboxylase subunit A [EC:6.4.1.1] [RN:R00344]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		4.0	2.0	3.0	5.0	5.0	5.0
+K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		9.0	4.0	9.0	9.0	9.0	8.0
+K01676	fumarate hydratase [EC:4.2.1.2] [RN:R01082]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		2.0	0.0	2.0	2.0	2.0	2.0
+K01679	fumarate hydratase [EC:4.2.1.2] [RN:R01082]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		4.0	4.0	4.0	4.0	4.0	3.0
+K00239	succinate dehydrogenase / fumarate reductase [EC:1.3.5.1 1.3.5.4] [RN:R02164]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		1.0	0.0	2.0	1.0	1.0	1.0
+K00031	isocitrate dehydrogenase [EC:1.1.1.42] [RN:R00267]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		3.0	3.0	1.0	3.0	3.0	3.0
+K01682	aconitate hydratase [EC:4.2.1.3] [RN:R01900 R01325]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		4.0	4.0	2.0	4.0	4.0	4.0
+K05884	L-2-hydroxycarboxylate dehydrogenase (NAD+) [EC:1.1.1.337] [RN:R07136]	Coenzyme M biosynthesis	Energy	C1		2.0	0.0	2.0	2.0	2.0	2.0
+K01007	pyruvate, water dikinase [EC:2.7.9.2] [RN:R00199]	Dicarboxylate-hydroxybutyrate cycle	Energy	C1		1.0	0.0	1.0	1.0	1.0	1.0
+K01595	phosphoenolpyruvate carboxylase [EC:4.1.1.31] [RN:R00345]	Dicarboxylate-hydroxybutyrate cycle	Energy	C1		0.0	0.0	0.0	0.0	1.0	0.0
+K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Dicarboxylate-hydroxybutyrate cycle	Energy	C1		9.0	4.0	9.0	9.0	9.0	8.0
+K01676	fumarate hydratase [EC:4.2.1.2] [RN:R01082]	Dicarboxylate-hydroxybutyrate cycle	Energy	C1		2.0	0.0	2.0	2.0	2.0	2.0
+K00239	succinate dehydrogenase / fumarate reductase [EC:1.3.5.1 1.3.5.4] [RN:R02164]	Dicarboxylate-hydroxybutyrate cycle	Energy	C1		1.0	0.0	2.0	1.0	1.0	1.0
+K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [RN:R00238]	Dicarboxylate-hydroxybutyrate cycle	Energy	C1		3.0	3.0	2.0	3.0	3.0	2.0
+K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [RN:R00238]	Hydroxypropionate-hydroxybutylate cycle	Energy	C1		3.0	3.0	2.0	3.0	3.0	2.0
+K09709	3-methylfumaryl-CoA hydratase [EC:4.2.1.153] [RN:R09282]	3-Hydroxypropionate bi-cycle	Energy	C1		1.0	1.0	0.0	1.0	1.0	1.0
+K01938	formate--tetrahydrofolate ligase [EC:6.3.4.3] [RN:R00943]	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)	Energy	C1		2.0	1.0	2.0	2.0	2.0	1.0
+K01491	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9] [RN:R01655 R01220]	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)	Energy	C1		2.0	1.0	2.0	2.0	2.0	1.0
+K00297	methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20] [RN:R07168]	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)	Energy	C1		2.0	2.0	2.0	2.0	2.0	2.0
+K11212	LPPG:FO 2-phospho-L-lactate transferase [EC:2.7.8.28] [RN:R09398]	F420 biosynthesis	Energy	C1		2.0	1.0	2.0	2.0	2.0	1.0
+K01697	cystathionine beta-synthase [EC:4.2.1.22] [RN:R01290]	Cysteine biosynthesis, homocysteine + serine => cysteine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K01758	cystathionine gamma-lyase [EC:4.4.1.1] [RN:R01001]	Cysteine biosynthesis, homocysteine + serine => cysteine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K00789	S-adenosylmethionine synthetase [EC:2.5.1.6] [RN:R00177]	Cysteine biosynthesis, methionine => cysteine	Organic Nitrogen	Amino Acid		4.0	3.0	4.0	4.0	4.0	3.0
+K01243	S-adenosylhomocysteine/5'-methylthioadenosine nucleosidase [EC:3.2.2.9] [RN:R00194]	Cysteine biosynthesis, methionine => cysteine	Organic Nitrogen	Amino Acid	2.0	1.0	2.0	2.0	2.0	1.0
+K07173	S-ribosylhomocysteine lyase [EC:4.4.1.21] [RN:R01291]	Cysteine biosynthesis, methionine => cysteine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K17216	cystathionine beta-synthase (O-acetyl-L-serine) [EC:2.5.1.134] [RN:R10305]	Cysteine biosynthesis, methionine => cysteine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K17217	cystathionine gamma-lyase [EC:4.4.1.1] [RN:R01001]	Cysteine biosynthesis, methionine => cysteine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K00931	glutamate 5-kinase [EC:2.7.2.11] [RN:R00239]	Proline biosynthesis, glutamate => proline	Organic Nitrogen	Amino Acid		3.0	2.0	4.0	3.0	3.0	3.0
+K00147	glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41] [RN:R03313]	Proline biosynthesis, glutamate => proline	Organic Nitrogen	Amino Acid		2.0	1.0	1.0	2.0	2.0	2.0
+K00286	pyrroline-5-carboxylate reductase [EC:1.5.1.2] [RN:R01251]	Proline biosynthesis, glutamate => proline	Organic Nitrogen	Amino Acid		3.0	2.0	3.0	3.0	3.0	2.0
+K00928	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		4.0	2.0	3.0	4.0	4.0	3.0
+K12524	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [RN:R02291]	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		5.0	3.0	4.0	5.0	5.0	4.0
+K01714	4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] [RN:R10147]	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid	3.0	1.0	3.0	3.0	3.0	2.0
+K00215	4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8] [RN:R04198 R04199]	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K00821	N-succinyldiaminopimelate aminotransferase [EC:2.6.1.17] [RN:R04475]	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid	1.0	0.0	1.0	1.0	1.0	debug2: channel 0: window 990987 sent adjust 57589
+1.0
+K01439	succinyl-diaminopimelate desuccinylase [EC:3.5.1.18] [RN:R02734]	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid	6.0	4.0	6.0	6.0	6.0	2.0
+K01778	diaminopimelate epimerase [EC:5.1.1.7] [RN:R02735]	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K01586	diaminopimelate decarboxylase [EC:4.1.1.20] [RN:R00451]	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K00928	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Methionine biosynthesis, apartate => homoserine => methionine	Organic Nitrogen	Amino Acid		4.0	2.0	3.0	4.0	4.0	3.0
+K12524	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Methionine biosynthesis, apartate => homoserine => methionine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [RN:R02291]	Methionine biosynthesis, apartate => homoserine => methionine	Organic Nitrogen	Amino Acid		5.0	3.0	4.0	5.0	5.0	4.0
+K00003	homoserine dehydrogenase [EC:1.1.1.3] [RN:R01773 R01775]	Methionine biosynthesis, apartate => homoserine => methionine	Organic Nitrogen	Amino Acid		3.0	1.0	2.0	3.0	3.0	3.0
+K00651	homoserine O-succinyltransferase [EC:2.3.1.46] [RN:R01777]	Methionine biosynthesis, apartate => homoserine => methionine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K01739	cystathionine gamma-synthase [EC:2.5.1.48] [RN:R03260]	Methionine biosynthesis, apartate => homoserine => methionine	Organic Nitrogen	Amino Acid		11.0	8.0	8.0	11.0	11.0	11.0
+K01760	cystathionine beta-lyase [EC:4.4.1.8] [RN:R01286]	Methionine biosynthesis, apartate => homoserine => methionine	Organic Nitrogen	Amino Acid		2.0	2.0	1.0	2.0	2.0	2.0
+K00549	methionine synthase [EC:2.1.1.13 2.1.1.14] [RN:R00946 R04405]	Methionine biosynthesis, apartate => homoserine => methionine	Organic Nitrogen	Amino Acid		5.0	2.0	4.0	5.0	5.0	4.0
+K00928	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Threonine biosynthesis, aspartate => homoserine => threonine	Organic Nitrogen	Amino Acid		4.0	2.0	3.0	4.0	4.0	3.0
+K12524	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Threonine biosynthesis, aspartate => homoserine => threonine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [RN:R02291]	Threonine biosynthesis, aspartate => homoserine => threonine	Organic Nitrogen	Amino Acid		5.0	3.0	4.0	5.0	5.0	4.0
+K00003	homoserine dehydrogenase [EC:1.1.1.3] [RN:R01773 R01775]	Threonine biosynthesis, aspartate => homoserine => threonine	Organic Nitrogen	Amino Acid		3.0	1.0	2.0	3.0	3.0	3.0
+K00872	homoserine kinase [EC:2.7.1.39] [RN:R01771]	Threonine biosynthesis, aspartate => homoserine => threonine	Organic Nitrogen	Amino Acid		7.0	4.0	7.0	7.0	7.0	5.0
+K02204	homoserine kinase [EC:2.7.1.39] [RN:R01771]	Threonine biosynthesis, aspartate => homoserine => threonine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	0.0
+K01733	threonine synthase [EC:4.2.3.1] [RN:R01466]	Threonine biosynthesis, aspartate => homoserine => threonine	Organic Nitrogen	Amino Acid		2.0	1.0	1.0	2.0	2.0	2.0
+K01652	acetolactate synthase [EC:2.2.1.6] [RN:R00226 R08648]	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		3.0	2.0	3.0	3.0	3.0	2.0
+K01653	acetolactate synthase [EC:2.2.1.6] [RN:R00226 R08648]	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00053	ketol-acid reductoisomerase [EC:1.1.1.86] [RN:R05071 R04440 R04439 R05069 R05068]	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K01687	dihydroxy-acid dehydratase [EC:4.2.1.9] [RN:R04441 R05070]	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42] [RN:R01214 R02199]	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		3.0	2.0	2.0	3.0	3.0	3.0
+K00058	D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95] [RN:R01513]	Serine biosynthesis, glycerate-3P => serine	Organic Nitrogen	Amino Acid		4.0	3.0	4.0	4.0	4.0	4.0
+K00831	phosphoserine aminotransferase [EC:2.6.1.52] [RN:R04173]	Serine biosynthesis, glycerate-3P => serine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K01079	phosphoserine phosphatase [EC:3.1.3.3] [RN:R00582]	Serine biosynthesis, glycerate-3P => serine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K00640	serine O-acetyltransferase [EC:2.3.1.30] [RN:R00586]	Cysteine biosynthesis, serine => cysteine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K01738	cysteine synthase [EC:2.5.1.47] [RN:R00897]	Cysteine biosynthesis, serine => cysteine	Organic Nitrogen	Amino Acid		6.0	5.0	8.0	6.0	6.0	6.0
+K17069	cysteine synthase [EC:2.5.1.47] [RN:R00897]	Cysteine biosynthesis, serine => cysteine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K01626	3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] [RN:R01826]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid	2.0	2.0	1.0	2.0	2.0	2.0
+K03856	3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] [RN:R01826]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid	1.0	0.0	1.0	1.0	1.0	1.0
+K01735	3-dehydroquinate synthase [EC:4.2.3.4] [RN:R03083]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K03785	3-dehydroquinate dehydratase [EC:4.2.1.10] [RN:R03084]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		2.0	0.0	2.0	2.0	2.0	2.0
+K00014	shikimate 5-dehydrogenase [EC:1.1.1.25] [RN:R02413]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		5.0	1.0	2.0	5.0	5.0	5.0
+K13830	3-dehydroquinate synthase [EC:4.2.3.4] [RN:R03083]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00891	shikimate kinase [EC:2.7.1.71] [RN:R02412]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19] [RN:R03460]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		5.0	2.0	5.0	5.0	5.0	3.0
+K01736	chorismate synthase [EC:4.2.3.5] [RN:R01714]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K01657	anthranilate synthase [EC:4.1.3.27] [RN:R00985 R00986]	Tryptophan biosynthesis, chorismate => tryptophan	Organic Nitrogen	Amino Acid		3.0	1.0	2.0	3.0	3.0	3.0
+K01658	anthranilate synthase [EC:4.1.3.27] [RN:R00985 R00986]	Tryptophan biosynthesis, chorismate => tryptophan	Organic Nitrogen	Amino Acid		9.0	4.0	8.0	9.0	9.0	7.0
+K01656	anthranilate synthase [EC:4.1.3.27] [RN:R00985 R00986]	Tryptophan biosynthesis, chorismate => tryptophan	Organic Nitrogen	Amino Acid		3.0	2.0	3.0	3.0	3.0	3.0
+K00766	anthranilate phosphoribosyltransferase [EC:2.4.2.18] [RN:R01073]	Tryptophan biosynthesis, chorismate => tryptophan	Organic Nitrogen	Amino Acid		2.0	1.0	1.0	2.0	2.0	2.0
+K01817	phosphoribosylanthranilate isomerase [EC:5.3.1.24] [RN:R03509]	Tryptophan biosynthesis, chorismate => tryptophan	Organic Nitrogen	Amino Acid		2.0	1.0	1.0	2.0	2.0	2.0
+K01609	indole-3-glycerol phosphate synthase [EC:4.1.1.48] [RN:R03508]	Tryptophan biosynthesis, chorismate => tryptophan	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K01695	tryptophan synthase [EC:4.2.1.20] [RN:R02722]	Tryptophan biosynthesis, chorismate => tryptophan	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K01696	tryptophan synthase [EC:4.2.1.20] [RN:R02722]	Tryptophan biosynthesis, chorismate => tryptophan	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K01694	tryptophan synthase [EC:4.2.1.20] [RN:R02722]	Tryptophan biosynthesis, chorismate => tryptophan	Organic Nitrogen	Amino Acid		3.0	1.0	3.0	3.0	3.0	3.0
+K01850	chorismate mutase [EC:5.4.99.5] [RN:R01715]	Phenylalanine biosynthesis, chorismate => phenylalanine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K04516	chorismate mutase [EC:5.4.99.5] [RN:R01715]	Phenylalanine biosynthesis, chorismate => phenylalanine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K01713	prephenate dehydratase [EC:4.2.1.51] [RN:R01373]	Phenylalanine biosynthesis, chorismate => phenylalanine	Organic Nitrogen	Amino Acid		9.0	4.0	9.0	9.0	9.0	5.0
+K04518	prephenate dehydratase [EC:4.2.1.51] [RN:R01373]	Phenylalanine biosynthesis, chorismate => phenylalanine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00838	aromatic-amino-acid transaminase [EC:2.6.1.57] [RN:R00694]	Phenylalanine biosynthesis, chorismate => phenylalanine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K01850	chorismate mutase [EC:5.4.99.5] [RN:R01715]	Tyrosine biosynthesis, chorismate => tyrosine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K04516	chorismate mutase [EC:5.4.99.5] [RN:R01715]	Tyrosine biosynthesis, chorismate => tyrosine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K04517	prephenate dehydrogenase [EC:1.3.1.12] [RN:R01728]	Tyrosine biosynthesis, chorismate => tyrosine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K00815	tyrosine aminotransferase [EC:2.6.1.5] [RN:R00734]	Tyrosine biosynthesis, chorismate => tyrosine	Organic Nitrogen	Amino Acid		5.0	3.0	2.0	5.0	5.0	4.0
+K00838	aromatic-amino-acid transaminase [EC:2.6.1.57] [RN:R00734]	Tyrosine biosynthesis, chorismate => tyrosine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K00765	ATP phosphoribosyltransferase [EC:2.4.2.17] [RN:R01071]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K02502	ATP phosphoribosyltransferase [EC:2.4.2.17] [RN:R01071]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K01523	phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31] [RN:R04035]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K01496	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19] [RN:R04037]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K11755	phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31] [RN:R04035]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K14152	phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31] [RN:R04035]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K01814	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16] [RN:R04640]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K02501	imidazole glycerol-phosphate synthase [EC:4.3.2.10] [RN:R04558]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K02500	imidazole glycerol-phosphate synthase [EC:4.3.2.10] [RN:R04558]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K01663	imidazole glycerol-phosphate synthase [EC:4.3.2.10] [RN:R04558]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		5.0	3.0	4.0	5.0	5.0	5.0
+K01693	imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19] [RN:R03457]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K00817	histidinol-phosphate aminotransferase [EC:2.6.1.9] [RN:R03243]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		5.0	2.0	4.0	5.0	5.0	5.0
+K04486	histidinol-phosphatase [EC:3.1.3.15] [RN:R03013]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		2.0	1.0	1.0	2.0	2.0	2.0
+K01089	imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15] [RN:R03457 R03013]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		0.0	0.0	1.0	0.0	0.0	0.0
+K00013	histidinol dehydrogenase [EC:1.1.1.23] [RN:R03012 R01163]	Histidine biosynthesis, PRPP => histidine	Organic Nitrogen	Amino Acid		2.0	1.0	1.0	2.0	2.0	2.0
+K00618	amino-acid N-acetyltransferase [EC:2.3.1.1] [RN:R00259]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		1.0	1.0	2.0	1.0	1.0	1.0
+K00620	glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1] [RN:R00259 R02282]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K00930	acetylglutamate kinase [EC:2.7.2.8] [RN:R02649]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K00145	N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38] [RN:R03443]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K12659	N-acetyl-gamma-glutamyl-phosphate reductase / acetylglutamate kinase [EC:1.2.1.38 2.7.2.8] [RN:R02649 R03443]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K00818	acetylornithine aminotransferase [EC:2.6.1.11] [RN:R02283]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		2.0	1.0	1.0	1.0	1.0	1.0
+K00821	acetylornithine aminotransferase [EC:2.6.1.11] [RN:R02283]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K01438	acetylornithine deacetylase [EC:3.5.1.16] [RN:R00669]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00611	ornithine carbamoyltransferase [EC:2.1.3.3] [RN:R01398]	Urea cycle	Organic Nitrogen	Amino Acid		3.0	2.0	3.0	3.0	3.0	2.0
+K01940	argininosuccinate synthase [EC:6.3.4.5] [RN:R01954]	Urea cycle	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K01755	argininosuccinate lyase [EC:4.3.2.1] [RN:R01086]	Urea cycle	Organic Nitrogen	Amino Acid		2.0	1.0	1.0	2.0	2.0	2.0
+K01476	arginase [EC:3.5.3.1] [RN:R00551]	Urea cycle	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K01655	homocitrate synthase [EC:2.3.3.14] [RN:R00271]	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	Organic Nitrogen	Amino Acid		4.0	4.0	2.0	4.0	4.0	4.0
+K17450	homoaconitase [EC:4.2.1.-] [RN:R03444]	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	Organic Nitrogen	Amino Acid		2.0	2.0	1.0	2.0	2.0	2.0
+K01705	homoaconitate hydratase [EC:4.2.1.36] [RN:R04371]	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	Organic Nitrogen	Amino Acid	4.0	4.0	3.0	4.0	4.0	4.0
+K05824	homoisocitrate dehydrogenase [EC:1.1.1.87] [RN:R01934]	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	Organic Nitrogen	Amino Acid	1.0	1.0	1.0	1.0	1.0	1.0
+K00838	2-aminoadipate transaminase [EC:2.6.1.39] [RN:R01939]	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	Organic Nitrogen	Amino Acid	1.0	1.0	0.0	1.0	1.0	1.0
+K00143	L-2-aminoadipate reductase [EC:1.2.1.95] [RN:R03098 R04863 R04390]	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00293	saccharopine dehydrogenase (NADP+, L-glutamate forming) [EC:1.5.1.10] [RN:R02315]	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00290	saccharopine dehydrogenase, L-lysine forming [EC:1.5.1.7] [RN:R00715]	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K00290	saccharopine dehydrogenase [EC:1.5.1.7] [RN:R00715]	Lysine degradation, lysine => saccharopine => acetoacetyl-CoA	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K00293	saccharopine dehydrogenase [EC:1.5.1.10] [RN:R02315]	Lysine degradation, lysine => saccharopine => acetoacetyl-CoA	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00825	2-aminoadipate transaminase [EC:2.6.1.39] [RN:R01939]	Lysine degradation, lysine => saccharopine => acetoacetyl-CoA	Organic Nitrogen	Amino Acid		0.0	0.0	2.0	0.0	0.0	0.0
+K00658	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide [EC:2.3.1.61] [RN:R01933]	Lysine degradation, lysine => saccharopine => acetoacetyl-CoA	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00382	dihydrolipoamide dehydrogenase [EC:1.8.1.4] [RN:R01933]	Lysine degradation, lysine => saccharopine => acetoacetyl-CoA	Organic Nitrogen	Amino Acid		9.0	7.0	8.0	9.0	9.0	6.0
+K01692	enoyl-CoA hydratase [EC:4.2.1.17] [RN:R03026]	Lysine degradation, lysine => saccharopine => acetoacetyl-CoA	Organic Nitrogen	Amino Acid		2.0	2.0	0.0	2.0	2.0	1.0
+K00789	S-adenosylmethionine synthetase [EC:2.5.1.6] [RN:R00177]	Methionine degradation	Organic Nitrogen	Amino Acid		4.0	3.0	4.0	4.0	4.0	3.0
+K00558	DNA (cytosine-5-)-methyltransferase [EC:2.1.1.37] [RN:R04858]	Methionine degradation	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K01251	adenosylhomocysteinase [EC:3.3.1.1] [RN:R00192]	Methionine degradation	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K01697	cystathionine beta-synthase [EC:4.2.1.22] [RN:R01290]	Methionine degradation	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42] [RN:R01090]	Leucine degradation, leucine => acetoacetate + acetyl-CoA	Organic Nitrogen	Amino Acid	3.0	2.0	2.0	3.0	3.0	3.0
+K00166	2-oxoisovalerate dehydrogenase [EC:1.2.4.4] [RN:R07601 R07602]	Leucine degradation, leucine => acetoacetate + acetyl-CoA	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K00167	2-oxoisovalerate dehydrogenase [EC:1.2.4.4] [RN:R07601 R07602]	Leucine degradation, leucine => acetoacetate + acetyl-CoA	Organic Nitrogen	Amino Acid		3.0	2.0	3.0	3.0	3.0	2.0
+K00382	dihydrolipoamide dehydrogenase [EC:1.8.1.4] [RN:R07618]	Leucine degradation, leucine => acetoacetate + acetyl-CoA	Organic Nitrogen	Amino Acid		9.0	7.0	8.0	9.0	9.0	6.0
+K00249	acyl-CoA dehydrogenase [EC:1.3.8.7] [RN:R04095]	Leucine degradation, leucine => acetoacetate + acetyl-CoA	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K00220	cyclohexadienyl dehydrogenase [EC:1.3.1.43] [RN:R00732]	Tyrosine biosynthesis, prephanate => pretyrosine => tyrosine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K01468	imidazolonepropionase [EC:3.5.2.7] [RN:R02288]	Histidine degradation, histidine => N-formiminoglutamate => glutamate	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K00207	dihydropyrimidine dehydrogenase (NADP+) [EC:1.3.1.2] [RN:R00978 R01415]	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate	Organic Nitrogen	Amino Acid		3.0	2.0	2.0	3.0	3.0	3.0
+K01431	beta-ureidopropionase [EC:3.5.1.6] [RN:R00905 R04666]	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate	Organic Nitrogen	Amino Acid	4.0	3.0	3.0	4.0	4.0	4.0
+K01649	2-isopropylmalate synthase [EC:2.3.3.13] [RN:R01213]	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	Organic Nitrogen	Amino Acid		6.0	6.0	3.0	6.0	6.0	6.0
+K01702	3-isopropylmalate dehydratase [EC:4.2.1.33] [RN:R03968 R04001]	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85] [RN:R04426]	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	Organic Nitrogen	Amino Acid		6.0	6.0	3.0	6.0	6.0	6.0
+K01655	homocitrate synthase [EC:2.3.3.14] [RN:R00271]	Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate	Organic Nitrogen	Amino Acid		4.0	4.0	2.0	4.0	4.0	4.0
+K17450	homoaconitase [EC:4.2.1.- 4.2.1.36 4.2.1.114] [RN:R03444 R04371 R09720]	Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate	Organic Nitrogen	Amino Acid		2.0	2.0	1.0	2.0	2.0	2.0
+K01705	homoaconitase [EC:4.2.1.- 4.2.1.36 4.2.1.114] [RN:R03444 R04371 R09720]	Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate	Organic Nitrogen	Amino Acid		4.0	4.0	3.0	4.0	4.0	4.0
+K05824	homoisocitrate dehydrogenase [EC:1.1.1.87] [RN:R01934]	Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00928	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		4.0	2.0	3.0	4.0	4.0	3.0
+K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [RN:R02291]	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		5.0	3.0	4.0	5.0	5.0	4.0
+K01714	4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] [RN:R10147]	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid	3.0	1.0	3.0	3.0	3.0	2.0
+K00215	4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8] [RN:R04198 R04199]	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K05822	tetrahydrodipicolinate N-acetyltransferase [EC:2.3.1.89] [RN:R04364]	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid	2.0	1.0	2.0	2.0	2.0	1.0
+K00841	aminotransferase [EC:2.6.1.-] [RN:R04467]	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		4.0	1.0	4.0	4.0	4.0	3.0
+K05823	N-acetyldiaminopimelate deacetylase [EC:3.5.1.47] [RN:R02733]	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K01778	diaminopimelate epimerase [EC:5.1.1.7] [RN:R02735]	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K01586	diaminopimelate decarboxylase [EC:4.1.1.20] [RN:R00451]	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K00928	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		4.0	2.0	3.0	4.0	4.0	3.0
+K12524	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [RN:R02291]	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid	5.0	3.0	4.0	5.0	5.0	4.0
+K01714	4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] [RN:R10147]	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		3.0	1.0	3.0	3.0	3.0	2.0
+K00215	4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8] [RN:R04198 R04199]	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K01586	diaminopimelate decarboxylase [EC:4.1.1.20] [RN:R00451]	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K00928	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		4.0	2.0	3.0	4.0	4.0	3.0
+K12524	aspartate kinase [EC:2.7.2.4] [RN:R00480]	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0
+K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [RN:R02291]	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid	5.0	3.0	4.0	5.0	5.0	4.0
+K01714	4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] [RN:R10147]	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		3.0	1.0	3.0	3.0	3.0	2.0
+K00215	4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8] [RN:R04198 R04199]	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K01778	diaminopimelate epimerase [EC:5.1.1.7] [RN:R02735]	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K01586	diaminopimelate decarboxylase [EC:4.1.1.20] [RN:R00451]	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K00052	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85] [RN:R00994]	Isoleucine biosynthesis, pyruvate => 2-oxobutanoate	Organic Nitrogen	Amino Acid		6.0	6.0	3.0	6.0	6.0	6.0
+K00130	betaine-aldehyde dehydrogenase [EC:1.2.1.8] [R02565 R02566]	Betaine biosynthesis, choline => betaine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K17989	threonine dehydratase [EC:4.3.1.19] [RN:R00996]	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		2.0	2.0	2.0	2.0	2.0	2.0
+K01754	threonine dehydratase [EC:4.3.1.19] [RN:R00996]	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K01652	acetolactate synthase [EC:2.2.1.6] [RN:R08648]	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		3.0	2.0	3.0	3.0	3.0	2.0
+K01653	acetolactate synthase [EC:2.2.1.6] [RN:R08648]	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00053	ketol-acid reductoisomerase [EC:1.1.1.86] [RN:R05069 R05068]	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid	1.0	1.0	1.0	1.0	1.0	1.0
+K01687	dihydroxy-acid dehydratase [EC:4.2.1.9] [RN:R05070]	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42] [RN:R02199]	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		3.0	2.0	2.0	3.0	3.0	3.0
+K01647	citrate synthase [EC:2.3.3.1] [RN:R00351]	Methylaspartate cycle	Organic Nitrogen	Amino Acid		3.0	3.0	2.0	3.0	3.0	3.0
+K00031	isocitrate dehydrogenase [EC:1.1.1.42] [RN:R01899 R00268]	Methylaspartate cycle	Organic Nitrogen	Amino Acid		3.0	3.0	1.0	3.0	3.0	3.0
+K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3] [RN:R00248]	Methylaspartate cycle	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Methylaspartate cycle	Organic Nitrogen	Amino Acid		9.0	4.0	9.0	9.0	9.0	8.0
+K10037	glnP; glutamine transport system permease protein	Glutamine transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K10039	peb1A, glnH; aspartate/glutamate/glutamine transport system substrate-binding protein	Aspartate/glutamate/glutamine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K10040	peb1B, glnP, glnM; aspartate/glutamate/glutamine transport system permease protein	Aspartate/glutamate/glutamine transport system	Transporters			4.0	2.0	4.0	4.0	4.0	2.0
+K10041	peb1C, glnQ; aspartate/glutamate/glutamine transport system ATP-binding protein [EC:7.4.2.1]	Aspartate/glutamate/glutamine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02424	fliY, tcyA; L-cystine transport system substrate-binding protein	L-Cystine transport system	Transporters			5.0	2.0	5.0	5.0	5.0	3.0
+K10009	tcyB, yecS; L-cystine transport system permease protein	L-Cystine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	Putative polar amino acid transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02029	ABC.PA.P; polar amino acid transport system permease protein	Putative polar amino acid transport system	Transporters			7.0	3.0	7.0	7.0	7.0	4.0
+K02028	ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:7.4.2.1]	Putative polar amino acid transport system	Transporters			7.0	3.0	7.0	7.0	7.0	4.0
+K01999	livK; branched-chain amino acid transport system substrate-binding protein	Branched-chain amino acid transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K01997	livH; branched-chain amino acid transport system permease protein	Branched-chain amino acid transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K01998	livM; branched-chain amino acid transport system permease protein	Branched-chain amino acid transport system	Transporters			2.0	0.0	2.0	2.0	2.0	2.0
+K01995	livG; branched-chain amino acid transport system ATP-binding protein	Branched-chain amino acid transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K01996	livF; branched-chain amino acid transport system ATP-binding protein	Branched-chain amino acid transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02073	ABC.MET.S; D-methionine transport system substrate-binding protein	D-Methionine transport system	Transporters			4.0	1.0	3.0	4.0	4.0	3.0
+K02072	ABC.MET.P; D-methionine transport system permease protein	D-Methionine transport system	Transporters			4.0	1.0	3.0	4.0	4.0	3.0
+K02071	ABC.MET.A; D-methionine transport system ATP-binding protein	D-Methionine transport system	Transporters			5.0	1.0	3.0	5.0	5.0	4.0
+K02051	ABC.SN.S; sulfonate/nitrate/taurine transport system substrate-binding protein	NitT/TauT family transport system	Transporters			1.0	0.0	1.0	1.0	0.0	0.0
+K02050	ABC.SN.P; sulfonate/nitrate/taurine transport system permease protein	NitT/TauT family transport system	Transporters			3.0	2.0	3.0	2.0	2.0	0.0
+K02049	ABC.SN.A; sulfonate/nitrate/taurine transport system ATP-binding protein	NitT/TauT family transport system	Transporters			2.0	1.0	3.0	1.0	1.0	0.0
+K05776	modF; molybdate transport system ATP-binding protein	Molybdate transport system	Transporters			1.0	1.0	1.0	1.0	1.0	1.0
+K02012	ABC.FE.S; iron(III) transport system substrate-binding protein	Iron(III) transport system	Transporters			4.0	1.0	3.0	4.0	4.0	4.0
+K02011	ABC.FE.P; iron(III) transport system permease protein	Iron(III) transport system	Transporters			22.0	8.0	17.0	21.0	20.0	13.0
+K02055	ABC.SP.S; putative spermidine/putrescine transport system substrate-binding protein	Putative spermidine/putrescine transport system	Transporters			16.0	7.0	16.0	16.0	16.0	9.0
+K02052	ABC.SP.A; putative spermidine/putrescine transport system ATP-binding protein	Putative spermidine/putrescine transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K10112	msmX; maltose/maltodextrin transport system ATP-binding protein	Maltose/maltodextrin transport system	Transporters			6.0	1.0	3.0	5.0	5.0	4.0
+K10117	msmE; raffinose/stachyose/melibiose transport system substrate-binding protein	Raffinose/stachyose/melibiose transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K10112	msmX; multiple sugar transport system ATP-binding protein	Raffinose/stachyose/melibiose transport system	Transporters			6.0	1.0	3.0	5.0	5.0	4.0
+K10112	msmX; multiple sugar transport system ATP-binding protein	Putative fructooligosaccharide transport system	Transporters			6.0	1.0	3.0	5.0	5.0	4.0
+K05813	ugpB; sn-glycerol 3-phosphate transport system substrate-binding protein	Putative sn-glycerol-phosphate transport system	Transporters			2.0	0.0	1.0	2.0	2.0	2.0
+K05814	ugpA; sn-glycerol 3-phosphate transport system permease protein	Putative sn-glycerol-phosphate transport system	Transporters			2.0	0.0	1.0	2.0	2.0	2.0
+K05815	ugpE; sn-glycerol 3-phosphate transport system permease protein	Putative sn-glycerol-phosphate transport system	Transporters			3.0	0.0	1.0	3.0	3.0	3.0
+K10112	msmX; multiple sugar transport system ATP-binding protein	Putative sorbitol/mannitol transport system	Transporters			6.0	1.0	3.0	5.0	5.0	4.0
+K10112	msmX; multiple sugar transport system ATP-binding protein	alpha-Glucoside transport system	Transporters			6.0	1.0	3.0	5.0	5.0	4.0
+K10112	msmX; multiple sugar transport system ATP-binding protein	Cellobiose transport system	Transporters			6.0	1.0	3.0	5.0	5.0	4.0
+K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	Putative multiple sugar transport system	Transporters			5.0	1.0	3.0	5.0	5.0	3.0
+K02025	ABC.MS.P; multiple sugar transport system permease protein	Putative multiple sugar transport system	Transporters			1.0	0.0	0.0	0.0	0.0	0.0
+K02026	ABC.MS.P1; multiple sugar transport system permease protein	Putative multiple sugar transport system	Transporters			2.0	0.0	1.0	2.0	2.0	2.0
+K10112	msmX; multiple sugar transport system ATP-binding protein	Putative multiple sugar transport system	Transporters			6.0	1.0	3.0	5.0	5.0	4.0
+K02002	proX; glycine betaine/proline transport system substrate-binding protein	Glycine betaine/proline transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02001	proW; glycine betaine/proline transport system permease protein	Glycine betaine/proline transport system	Transporters			4.0	2.0	5.0	4.0	4.0	2.0
+K05845	ABC.BCP1.S; osmoprotectant transport system substrate-binding protein	Osmoprotectant transport system	Transporters			3.0	2.0	3.0	3.0	3.0	1.0
+K05846	ABC.BCP1.P; osmoprotectant transport system permease protein	Osmoprotectant transport system	Transporters			7.0	3.0	7.0	7.0	7.0	4.0
+K05847	ABC.BCP1.A; osmoprotectant transport system ATP-binding protein	Osmoprotectant transport system	Transporters			4.0	3.0	4.0	4.0	4.0	2.0
+K02069	ABC.X2.P; putative ABC transport system permease protein	Putative ABC transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02068	ABC.X2.A; putative ABC transport system ATP-binding protein	Putative ABC transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02057	ABC.SS.P; simple sugar transport system permease protein	Putative simple sugar transport system	Transporters			4.0	2.0	4.0	4.0	4.0	2.0
+K02040	pstS; phosphate transport system substrate-binding protein	Phosphate transport system	Transporters			4.0	2.0	4.0	4.0	4.0	2.0
+K02037	pstC; phosphate transport system permease protein	Phosphate transport system	Transporters			3.0	2.0	3.0	3.0	3.0	1.0
+K02038	pstA; phosphate transport system permease protein	Phosphate transport system	Transporters			3.0	2.0	3.0	3.0	3.0	1.0
+K02036	pstB; phosphate transport system ATP-binding protein [EC:7.3.2.1]	Phosphate transport system	Transporters			5.0	3.0	5.0	5.0	5.0	2.0
+K02044	phnD; phosphonate transport system substrate-binding protein	Phosphonate transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02042	phnE; phosphonate transport system permease protein	Phosphonate transport system	Transporters			4.0	1.0	3.0	4.0	4.0	3.0
+K02041	phnC; phosphonate transport system ATP-binding protein [EC:7.3.2.2]	Phosphonate transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K10037	glnP; glutamine transport system permease protein	Glutamine transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K10039	peb1A, glnH; aspartate/glutamate/glutamine transport system substrate-binding protein	Aspartate/glutamate/glutamine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K10040	peb1B, glnP, glnM; aspartate/glutamate/glutamine transport system permease protein	Aspartate/glutamate/glutamine transport system	Transporters			4.0	2.0	4.0	4.0	4.0	2.0
+K10041	peb1C, glnQ; aspartate/glutamate/glutamine transport system ATP-binding protein [EC:7.4.2.1]	Aspartate/glutamate/glutamine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02424	fliY, tcyA; L-cystine transport system substrate-binding protein	L-Cystine transport system	Transporters			5.0	2.0	5.0	5.0	5.0	3.0
+K10009	tcyB, yecS; L-cystine transport system permease protein	L-Cystine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	Putative polar amino acid transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02029	ABC.PA.P; polar amino acid transport system permease protein	Putative polar amino acid transport system	Transporters			7.0	3.0	7.0	7.0	7.0	4.0
+K02028	ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:7.4.2.1]	Putative polar amino acid transport system	Transporters			7.0	3.0	7.0	7.0	7.0	4.0
+K01999	livK; branched-chain amino acid transport system substrate-binding protein	Branched-chain amino acid transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K01997	livH; branched-chain amino acid transport system permease protein	Branched-chain amino acid transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K01998	livM; branched-chain amino acid transport system permease protein	Branched-chain amino acid transport system	Transporters			2.0	0.0	2.0	2.0	2.0	2.0
+K01995	livG; branched-chain amino acid transport system ATP-binding protein	Branched-chain amino acid transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K01996	livF; branched-chain amino acid transport system ATP-binding protein	Branched-chain amino acid transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02073	ABC.MET.S; D-methionine transport system substrate-binding protein	D-Methionine transport system	Transporters			4.0	1.0	3.0	4.0	4.0	3.0
+K02072	ABC.MET.P; D-methionine transport system permease protein	D-Methionine transport system	Transporters			4.0	1.0	3.0	4.0	4.0	3.0
+K02071	ABC.MET.A; D-methionine transport system ATP-binding protein	D-Methionine transport system	Transporters			5.0	1.0	3.0	5.0	5.0	4.0
+K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	Peptides/nickel transport system	Transporters			18.0	11.0	18.0	18.0	18.0	7.0
+K02033	ABC.PE.P; peptide/nickel transport system permease protein	Peptides/nickel transport system	Transporters			5.0	3.0	5.0	5.0	5.0	2.0
+K02034	ABC.PE.P1; peptide/nickel transport system permease protein	Peptides/nickel transport system	Transporters			1.0	1.0	1.0	1.0	1.0	0.0
+K02016	ABC.FEV.S; iron complex transport system substrate-binding protein	Iron complex transport system	Transporters			3.0	1.0	2.0	3.0	3.0	2.0
+K02015	ABC.FEV.P; iron complex transport system permease protein	Iron complex transport system	Transporters			4.0	1.0	3.0	4.0	4.0	3.0
+K02013	ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]	Iron complex transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K09817	znuC; zinc transport system ATP-binding protein [EC:3.6.3.-]	Zinc transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02077	ABC.ZM.S; zinc/manganese transport system substrate-binding protein	Putative zinc/manganese transport system	Transporters			5.0	2.0	5.0	5.0	5.0	3.0
+K02075	ABC.ZM.P; zinc/manganese transport system permease protein	Putative zinc/manganese transport system	Transporters			3.0	1.0	3.0	3.0	3.0	2.0
+K02074	ABC.ZM.A; zinc/manganese transport system ATP-binding protein	Putative zinc/manganese transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02008	cbiQ; cobalt/nickel transport system permease protein	Cobalt/nickel transport system	Transporters			4.0	1.0	4.0	4.0	4.0	3.0
+K02007	cbiM; cobalt/nickel transport system permease protein	Cobalt/nickel transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02006	cbiO; cobalt/nickel transport system ATP-binding protein	Cobalt/nickel transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02008	cbiQ; cobalt/nickel transport system permease protein	Nickel transport system	Transporters			4.0	1.0	4.0	4.0	4.0	3.0
+K02007	cbiM; cobalt/nickel transport system permease protein	Nickel transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02006	cbiO; cobalt/nickel transport system ATP-binding protein	Nickel transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K01989	ABC.X4.S; putative ABC transport system substrate-binding protein	Putative ABC transport system	Transporters			4.0	2.0	4.0	4.0	4.0	2.0
+K05832	ABC.X4.P; putative ABC transport system permease protein	Putative ABC transport system	Transporters			4.0	2.0	4.0	4.0	4.0	2.0
+K05833	ABC.X4.A; putative ABC transport system ATP-binding protein	Putative ABC transport system	Transporters			4.0	2.0	4.0	4.0	4.0	2.0
+K09690	ABC-2.LPSE.P; lipopolysaccharide transport system permease protein	Lipopolysaccharide transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K09692	tagG; teichoic acid transport system permease protein	Teichoic acid transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K09693	tagH; teichoic acid transport system ATP-binding protein [EC:3.6.3.40]	Teichoic acid transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K09694	nodJ; lipooligosaccharide transport system permease protein	Lipooligosaccharide transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K09696	natB; sodium transport system permease protein	Sodium transport system	Transporters			5.0	1.0	5.0	5.0	5.0	4.0
+K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	ABC-2 type transport system	Transporters			4.0	0.0	4.0	4.0	4.0	4.0
+K09813	hrtB; hemin transport system permease protein	Hemin transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K09814	hrtA; hemin transport system ATP-binding protein [EC:3.6.3.-]	Hemin transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02004	ABC.CD.P;	Putative ABC transport system	Transporters			3.0	1.0	3.0	3.0	3.0	2.0
+K02003	ABC.CD.A;	Putative ABC transport system	Transporters			4.0	2.0	5.0	4.0	4.0	2.0
+K02777	PTS-Glc-EIIA; PTS system, glucose-specific IIA component	PTS system, glucose-specific II component	Transporters			4.0	0.0	2.0	4.0	4.0	4.0
+K02777	PTS-Glc-EIIA; PTS system, sugar-specific IIA component	PTS system, maltose/glucose-specific II component	Transporters			4.0	0.0	2.0	4.0	4.0	4.0
+K02804	PTS-Nag-EIIC; PTS system, N-acetylglucosamine-specific IIC component	PTS system, N-acetylglucosamine-specific II component	Transporters			2.0	0.0	2.0	2.0	2.0	2.0
+K02777	PTS-Glc-EIIA; PTS system, sugar-specific IIA component	PTS system, alpha-glucoside-specific II component	Transporters			4.0	0.0	2.0	4.0	4.0	4.0
+K02750	PTS-Glv-EIIC; PTS system, alpha-glucoside-specific IIC component	PTS system, alpha-glucoside-specific II component	Transporters			5.0	0.0	2.0	5.0	5.0	5.0
+K02810	PTS-Scr-EIIC; PTS system, sucrose-specific IIC component	PTS system, sucrose-specific II component	Transporters			3.0	0.0	2.0	3.0	3.0	3.0
+K02777	PTS-Glc-EIIA; PTS system, glucose-specific IIA component	PTS system, trehalose-specific II component	Transporters			4.0	0.0	2.0	4.0	4.0	4.0
+K02755	PTS-Bgl-EIIA; PTS system, beta-glucoside-specific IIA component	PTS system, beta-glucoside-specific II component	Transporters			6.0	0.0	3.0	6.0	6.0	6.0
+K02757	PTS-Bgl-EIIC; PTS system, beta-glucoside-specific IIC component	PTS system, beta-glucoside-specific II component	Transporters			9.0	1.0	6.0	9.0	9.0	9.0
+K02777	PTS-Glc-EIIA; PTS system, sugar-specific IIA component	PTS system, beta-glucoside (arbutin/salicin/cellobiose)-specific II component	Transporters			4.0	0.0	2.0	4.0	4.0	4.0
+K02753	PTS-Asc-EIIC; PTS system, beta-glucoside (arbutin/salicin/cellobiose)-specific IIC component	PTS system, beta-glucoside (arbutin/salicin/cellobiose)-specific II componentTransporters			13.0	1.0	8.0	13.0	13.0	13.0
+K02768	PTS-Fru-EIIA; PTS system, fructose-specific IIA component	PTS system, fructose-specific II component	Transporters			3.0	0.0	2.0	3.0	3.0	3.0
+K02769	PTS-Fru-EIIB; PTS system, fructose-specific IIB component	PTS system, fructose-specific II component	Transporters			2.0	0.0	1.0	2.0	2.0	2.0
+K02770	PTS-Fru-EIIC; PTS system, fructose-specific IIC component	PTS system, fructose-specific II component	Transporters			4.0	0.0	2.0	4.0	4.0	4.0
+K02798	PTS-Mtl-EIIA; PTS system, mannitol-specific IIA component	PTS system, mannitol-specific II component	Transporters			3.0	0.0	2.0	3.0	3.0	3.0
+K02800	PTS-Mtl-EIIC; PTS system, mannitol-specific IIC component	PTS system, mannitol-specific II component	Transporters			1.0	1.0	1.0	1.0	1.0	1.0
+K02759	PTS-Cel-EIIA; PTS system, cellobiose-specific IIA component	PTS system, cellobiose-specific II component	Transporters			3.0	0.0	3.0	3.0	3.0	3.0
+K02760	PTS-Cel-EIIB; PTS system, cellobiose-specific IIB component	PTS system, cellobiose-specific II component	Transporters			4.0	1.0	4.0	4.0	4.0	3.0
+K02761	PTS-Cel-EIIC; PTS system, cellobiose-specific IIC component	PTS system, cellobiose-specific II component	Transporters			11.0	4.0	11.0	11.0	11.0	9.0
+K02794	PTS-Man-EIIB; PTS system, mannose-specific IIB component	PTS system, mannose-specific II component	Transporters			5.0	3.0	5.0	5.0	5.0	3.0
+K02795	PTS-Man-EIIC; PTS system, mannose-specific IIC component	PTS system, mannose-specific II component	Transporters			2.0	2.0	2.0	2.0	2.0	1.0
+K02796	PTS-Man-EIID; PTS system, mannose-specific IID component	PTS system, mannose-specific II component	Transporters			2.0	2.0	2.0	2.0	2.0	1.0
+K02744	PTS-Aga-EIIA; PTS system, N-acetylgalactosamine-specific IIA component	PTS system, N-acetylgalactosamine-specific II component	Transporters			3.0	1.0	2.0	3.0	3.0	2.0
+K02745	PTS-Aga-EIIB; PTS system, N-acetylgalactosamine-specific IIB component	PTS system, N-acetylgalactosamine-specific II component	Transporters			4.0	2.0	3.0	4.0	4.0	3.0
+K02746	PTS-Aga-EIIC; PTS system, N-acetylgalactosamine-specific IIC component	PTS system, N-acetylgalactosamine-specific II component	Transporters			3.0	2.0	2.0	3.0	3.0	2.0
+K02747	PTS-Aga-EIID; PTS system, N-acetylgalactosamine-specific IID component	PTS system, N-acetylgalactosamine-specific II component	Transporters			3.0	2.0	2.0	3.0	3.0	2.0
+K02773	PTS-Gat-EIIA; PTS system, galactitol-specific IIA component	PTS system, galactitol-specific II component	Transporters			2.0	0.0	1.0	2.0	2.0	2.0
+K02774	PTS-Gat-EIIB; PTS system, galactitol-specific IIB component	PTS system, galactitol-specific II component	Transporters			2.0	0.0	1.0	2.0	2.0	2.0
+K02775	PTS-Gat-EIIC; PTS system, galactitol-specific IIC component	PTS system, galactitol-specific II component	Transporters			3.0	1.0	2.0	3.0	3.0	2.0
+K02781	PTS-Gut-EIIA; PTS system, glucitol/sorbitol-specific IIA component	PTS system, glucitol/sorbitol-specific II component	Transporters			2.0	0.0	2.0	2.0	2.0	2.0
+K02782	PTS-Gut-EIIB; PTS system, glucitol/sorbitol-specific IIB component	PTS system, glucitol/sorbitol-specific II component	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02783	PTS-Gut-EIIC; PTS system, glucitol/sorbitol-specific IIC component	PTS system, glucitol/sorbitol-specific II component	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02821	PTS-Ula-EIIA; PTS system, ascorbate-specific IIA component	PTS system, ascorbate-specific II component	Transporters			2.0	0.0	1.0	2.0	2.0	2.0
+K02822	PTS-Ula-EIIB; PTS system, ascorbate-specific IIB component	PTS system, ascorbate-specific II component	Transporters			2.0	0.0	1.0	2.0	2.0	2.0
+K03475	PTS-Ula-EIIC; PTS system, ascorbate-specific IIC component	PTS system, ascorbate-specific II component	Transporters			2.0	0.0	1.0	2.0	2.0	2.0
+K11051	ABC-2.CYL.P; multidrug/hemolysin transport system permease protein	Multidrug/hemolysin transport system	Transporters			1.0	0.0	0.0	1.0	1.0	1.0
+K11050	ABC-2.CYL.A; multidrug/hemolysin transport system ATP-binding protein	Multidrug/hemolysin transport system	Transporters			1.0	0.0	0.0	1.0	1.0	1.0
+K11069	potD; spermidine/putrescine transport system substrate-binding protein	Spermidine/putrescine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K11070	potC; spermidine/putrescine transport system permease protein	Spermidine/putrescine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K11071	potB; spermidine/putrescine transport system permease protein	Spermidine/putrescine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K11072	potA; spermidine/putrescine transport system ATP-binding protein	Spermidine/putrescine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02777	PTS-Glc-EIIA; PTS system, glucose-specific IIA component	PTS system, N-acetylmuramic acid-specific II component	Transporters			4.0	0.0	2.0	4.0	4.0	4.0
+K11201	PTS-Fru2-EIIA; PTS system, fructose-specific IIA-like component	PTS system, fructose-specific II-like component	Transporters			1.0	0.0	0.0	1.0	1.0	1.0
+K11632	bceB; bacitracin transport system permease protein	Bacitracin transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K11631	bceA; bacitracin transport system ATP-binding protein	Bacitracin transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K11636	yxdM; putative ABC transport system permease protein	Uncharacterized ABC transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K15553	ssuA; sulfonate transport system substrate-binding protein	Sulfonate transport system	Transporters			1.0	0.0	1.0	0.0	0.0	0.0
+K15554	ssuC; sulfonate transport system permease protein	Sulfonate transport system	Transporters			1.0	0.0	1.0	0.0	0.0	0.0
+K15580	oppA; oligopeptide transport system substrate-binding protein	Oligopeptide transport system	Transporters			17.0	10.0	17.0	17.0	17.0	7.0
+K15581	oppB; oligopeptide transport system permease protein	Oligopeptide transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K15582	oppC; oligopeptide transport system permease protein	Oligopeptide transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K15583	oppD; oligopeptide transport system ATP-binding protein	Oligopeptide transport system	Transporters			3.0	2.0	3.0	3.0	3.0	1.0
+K10823	oppF; oligopeptide transport system ATP-binding protein	Oligopeptide transport system	Transporters			3.0	2.0	3.0	3.0	3.0	1.0
+K03523	bioY; biotin transport system substrate-specific component	Biotin transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K03523	bioY; biotin transport system substrate-specific component	Energy-coupling factor transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K16923	qrtT; energy-coupling factor transport system substrate-specific component	Energy-coupling factor transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K16924	mtsT; energy-coupling factor transport system substrate-specific component	Energy-coupling factor transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K16925	ykoE; energy-coupling factor transport system substrate-specific component	Energy-coupling factor transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K16927	cbrT; energy-coupling factor transport system substrate-specific component	Energy-coupling factor transport system	Transporters			1.0	1.0	1.0	1.0	1.0	0.0
+K16785	ecfT; energy-coupling factor transport system permease protein	Energy-coupling factor transport system	Transporters			6.0	3.0	6.0	6.0	6.0	3.0
+K16786	ecfA1; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	Energy-coupling factor transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K16787	ecfA2; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	Energy-coupling factor transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K16919	ytrC_D; acetoin utilization transport system permease protein	Acetoin utilization transport system	Transporters			3.0	2.0	3.0	3.0	3.0	2.0
+K16921	ytrB; acetoin utilization transport system ATP-binding protein	Acetoin utilization transport system	Transporters			6.0	3.0	6.0	6.0	6.0	4.0
+K10112	msmX; multiple sugar transport system ATP-binding protein	Arabinosaccharide transport system	Transporters			6.0	1.0	3.0	5.0	5.0	4.0
+K17318	lplA; putative aldouronate transport system substrate-binding protein	Putative aldouronate transport system	Transporters			1.0	0.0	0.0	1.0	1.0	1.0
+K17319	lplB; putative aldouronate transport system permease protein	Putative aldouronate transport system	Transporters			1.0	0.0	0.0	1.0	1.0	1.0
+K17320	lplC; putative aldouronate transport system permease protein	Putative aldouronate transport system	Transporters			1.0	0.0	0.0	1.0	1.0	1.0
+K10112	msmX; multiple sugar transport system ATP-binding protein	Glucose/mannose transport system	Transporters			6.0	1.0	3.0	5.0	5.0	4.0
+K10112	msmX; multiple sugar transport system ATP-binding protein	N,N'-Diacetylchitobiose transport system	Transporters			6.0	1.0	3.0	5.0	5.0	4.0
+K18476	tetR; TetR/AcrR family transcriptional regulator, tetracycline repressor protein	Tetracycline resistance, TetA transporter	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K08151	tetA; MFS transporter, DHA1 family, tetracycline resistance protein	Tetracycline resistance, TetA transporter	Transporters			4.0	3.0	2.0	4.0	4.0	4.0
+K19081	braS; two-component system, OmpR family, sensor histidine kinase BraS/BceS [EC:2.7.13.3]	Bacitracin resistance, VraDE transporter	Transporters			0.0	1.0	1.0	0.0	0.0	0.0
+K11631	bceA; bacitracin transport system ATP-binding protein	Bacitracin resistance, VraDE transporter	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K11632	bceB; bacitracin transport system permease protein	Bacitracin resistance, VraDE transporter	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K11631	bceA; bacitracin transport system ATP-binding protein	Bacitracin resistance, BceAB transporter	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K11632	bceB; bacitracin transport system permease protein	Bacitracin resistance, BceAB transporter	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K19975	mntC; manganese/zinc transport system substrate-binding protein	Manganese/zinc transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K19976	mntB; manganese/zinc transport system permease protein	Manganese/zinc transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K19973	mntA; manganese/zinc transport system ATP-binding protein [EC:3.6.3.35]	Manganese/zinc transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K02777	PTS-Glc-EIIA; PTS system, glucose-specific IIA component	PTS system, maltose-specific II component	Transporters			4.0	0.0	2.0	4.0	4.0	4.0
+K20459	nukF; lantibiotic transport system ATP-binding protein	Lantibiotic transport system	Transporters			2.0	0.0	3.0	2.0	2.0	2.0
+K20460	nukE; lantibiotic transport system permease protein	Lantibiotic transport system	Transporters			0.0	0.0	1.0	0.0	0.0	0.0
+K20461	nukG; lantibiotic transport system permease protein	Lantibiotic transport system	Transporters			1.0	0.0	1.0	1.0	1.0	1.0
+K23059	artP; arginine/lysine/histidine transporter system substrate-binding protein	Arginine/lysine/histidine transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0

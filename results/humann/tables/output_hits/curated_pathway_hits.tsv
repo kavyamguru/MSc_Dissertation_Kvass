@@ -1,0 +1,25 @@
+# Pathway	AA_combined_Abundance	B1_combined_Abundance	C1_combined_Abundance	D1_combined_Abundance	E1_combined_Abundance	F1_combined_Abundance	Category	Gene_Short
+P461-PWY: hexitol fermentation to lactate, formate, ethanol and acetate	776.498	54.0591	336.043	171.993	243.563	1.11949	Acidification	ldh
+P41-PWY: pyruvate fermentation to acetate and (S)-lactate I	69.7284	20.8218	96.0565	130.723	131.927	164.769	Acidification	ldh
+PWY-5100: pyruvate fermentation to acetate and lactate II	0.513751	4.93319	0.0	0.0	0.0	0.0	Acidification	ldh
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass	46.5603	17.6815	65.082	84.9378	87.0278	5.44849	Acidification	pox
+PWY-5464: superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle	42.0113	14.9049	60.0881	81.4079	82.1203	79.5476	Acidification	pox
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	32.708	24.045	41.8241	60.1288	61.9266	72.5487	Acidification	pox
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)	893.512	59.6368	370.005	235.809	340.174	49.5968	Aroma/Flavor	arcA
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)	784.525	59.1557	353.362	231.199	330.399	48.3568	Aroma/Flavor	arcA
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)	733.256	57.1759	300.599	211.148	298.286	46.6589	Aroma/Flavor	arcA
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)	642.48	52.3058	276.611	199.496	283.135	39.3493	Aroma/Flavor	arcA
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II	28.4219	13.2953	47.0747	58.6889	58.5802	25.5904	Aroma/Flavor	arcA
+PWY-8187: L-arginine degradation XIII (reductive Stickland reaction)	28.3123	1051.6	527.481	504.974	465.648	580.906	Aroma/Flavor	arcA
+ARG+POLYAMINE-SYN: superpathway of arginine and polyamine biosynthesis	0.0	5.42781	0.0	0.0	0.0	0.0	Aroma/Flavor	arcA
+AST-PWY: L-arginine degradation II (AST pathway)	0.0	1.10312	0.0	0.0	0.0	0.0	Aroma/Flavor	arcA
+GLUTORN-PWY: L-ornithine biosynthesis I	749.963	53.2042	352.037	221.328	315.646	32.444	Stress_Tolerance	ordC
+PWY-6922: L-Nδ-acetylornithine biosynthesis	19.3729	8.33152	26.1978	34.6723	35.9626	26.7885	Stress_Tolerance	ordC
+PWY-6842: glutathione-mediated detoxification II	22.3203	8.86568	34.6739	48.8363	45.9417	59.7835	Stress_Tolerance	gsr
+GLUDEG-I-PWY: GABA shunt	0.0	7.46356	35.0923	49.6594	47.455	63.7578	Health-Associated	GABA shunt
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate	771.29	44.7938	310.304	167.846	261.556	27.6262	Vitamin	Folate biosynthesis
+FOLSYN-PWY: superpathway of tetrahydrofolate biosynthesis and salvage	96.0882	36.4483	120.42	132.552	140.277	50.5437	Vitamin	Folate biosynthesis
+PWY-6612: superpathway of tetrahydrofolate biosynthesis	66.6351	28.7639	88.0462	101.746	104.899	58.6986	Vitamin	Folate biosynthesis
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)	69.1876	62.9185	136.214	151.917	148.34	178.375	Vitamin	Riboflavin biosynthesis
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I	5.95271	9.54173	0.0	0.0	0.0	0.0	Vitamin	Biotin biosynthesis
+

@@ -1,0 +1,22 @@
+Category	Pathway	E1	F1	B1	D1	C1	AA
+Acidification	Lactic acid fermentation	16	6	15	16	16	12
+Acidification	Acetate production	22	12	22	22	22	10
+SCFA_Production	Butyrate synthesis	66	52	70	79	79	50
+Neuroactive_Molecules	Tryptophan metabolism	2	1	2	2	2	2
+Aroma_Flavor	Ester and aromatic compound synthesis	8	6	8	8	8	6
+Stress_Tolerance	Acid and oxidative stress	30	25	31	33	31	19
+Texture	EPS production	3	2	3	3	3	2
+Vitamin	Riboflavin (B2) salvage/transport	48	35	45	50	49	34
+Vitamin	Biotin (B7) transport	4	2	4	4	4	2
+Vitamin	Folate (B9) biosynthesis	6	4	6	6	6	4
+Vitamin	Cobalamin (B12) biosynthesis	12	2	12	12	12	10
+Vitamin	Cobalamin (B12) transport/salvage	12	2	12	12	12	10
+Central_Carbon	TCA cycle (Krebs)	146	124	116	151	145	128
+Central_Carbon	Glyoxylate shunt	10	10	6	10	10	10
+Central_Carbon	Glycolysis (EMP)	71	53	59	74	74	64
+Central_Carbon	Pentose phosphate (oxidative)	51	37	55	53	51	34
+Central_Carbon	Pentose phosphate (non-oxidative)	48	34	42	50	49	36
+Central_Carbon	Entner–Doudoroff (ED)	6	3	3	6	6	3
+Central_Carbon	Pyruvate → acetyl-CoA (PDH/PFOR/PFL)	7	5	7	7	7	4
+Central_Carbon	Ethanol/Lactate fermentation	29	24	22	29	29	21
+

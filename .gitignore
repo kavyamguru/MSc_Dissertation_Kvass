@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+__pycache__/
+*.pyc
+.Rhistory
+.Rproj.user/
+
+# Bioinformatics artefacts / big binaries
+*.qza
+*.qzv
+*.parquet
+*.tiff
+results/**/multiqc_data/
+results/**/multiqc_report.html

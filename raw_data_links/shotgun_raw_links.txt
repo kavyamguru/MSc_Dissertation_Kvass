@@ -1,0 +1,15 @@
+# Shotgun sequencing raw data (Novogene, Illumina)
+# TODO: Replace [ADD LINK HERE] with actual public OneDrive or NCBI SRA link before uploading to GitHub
+
+SDX_1.fq.gz (AA_R1) - [ADD LINK HERE]
+SDX_2.fq.gz (AA_R2) - [ADD LINK HERE]
+SDY_1.fq.gz (B1_R1) - [ADD LINK HERE]
+SDY_2.fq.gz (B1_R2) - [ADD LINK HERE]
+LSGF-Kvass-X_1.fq.gz (C1_R1) - [ADD LINK HERE]
+LSGF-Kvass-X_2.fq.gz (C1_R2) - [ADD LINK HERE]
+Std-Kvass-X_1.fq.gz (D1_R1) - [ADD LINK HERE]
+Std-Kvass-X_2.fq.gz (D1_R2) - [ADD LINK HERE]
+LSF-Kvass-X_1.fq.gz (E1_R1) - [ADD LINK HERE]
+LSF-Kvass-X_2.fq.gz (E1_R2) - [ADD LINK HERE]
+LSF-Kvass-Y_1.fq.gz (F1_R1) - [ADD LINK HERE]
+LSF-Kvass-Y_2.fq.gz (F1_R2) - [ADD LINK HERE]

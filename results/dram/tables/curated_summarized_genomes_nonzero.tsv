@@ -1,0 +1,20 @@
+gene_id	gene_description	pathway	topic_ecosystem	category	subcategory	E1	F1	B1	D1	C1	AA
+K00850	6-phosphofructokinase [EC:2.7.1.11] [RN:R04779]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	3.0	2.0	2.0	3.0	3.0	3.0
+K00625	phosphate acetyltransferase [EC:2.3.1.8] [RN:R00230]	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	carbon utilization	pyruvate metabolism		2.0	1.0	2.0	2.0	2.0	1.0
+K00925	acetate kinase [EC:2.7.2.1] [RN:R00315]	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	carbon utilization	pyruvate metabolism		7.0	4.0	7.0	7.0	7.0	3.0
+K00016	L-lactate dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		8.0	2.0	9.0	8.0	8.0	6.0
+K01193	beta-fructofuranosidase	Starch and sucrose metabolism	carbon utilization (Woodcroft)	sugar utilization	sucrose degradation	3.0	2.0	1.0	3.0	3.0	3.0
+K02145	ATPeV1A; V-type H+-transporting ATPase subunit A [EC:3.6.3.14]	V-type ATPase, eukaryotes	Energy	Electron transport Chain		1.0	1.0	1.0	1.0	1.0	1.0
+K00925	acetate kinase [EC:2.7.2.1] [RN:R00315]	Methanogenesis, acetate => methane	Energy	C1-methane		7.0	4.0	7.0	7.0	7.0	3.0
+K00625	phosphate acetyltransferase [EC:2.3.1.8] [RN:R00230]	Methanogenesis, acetate => methane	Energy	C1-methane		2.0	1.0	2.0	2.0	2.0	1.0
+K01006	pyruvate,orthophosphate dikinase [EC:2.7.9.1] [RN:R00206]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		3.0	1.0	3.0	3.0	3.0	2.0
+K01595	phosphoenolpyruvate carboxylase [EC:4.1.1.31] [RN:R00345]	Reductive citrate cycle (Arnon-Buchanan cycle)	Energy	C1		0.0	0.0	0.0	0.0	1.0	0.0
+K01595	phosphoenolpyruvate carboxylase [EC:4.1.1.31] [RN:R00345]	Dicarboxylate-hydroxybutyrate cycle	Energy	C1		0.0	0.0	0.0	0.0	1.0	0.0
+K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [RN:R00238]	Dicarboxylate-hydroxybutyrate cycle	Energy	C1		3.0	3.0	2.0	3.0	3.0	2.0
+K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [RN:R00238]	Hydroxypropionate-hydroxybutylate cycle	Energy	C1		3.0	3.0	2.0	3.0	3.0	2.0
+K01586	diaminopimelate decarboxylase [EC:4.1.1.20] [RN:R00451]	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K01652	acetolactate synthase [EC:2.2.1.6] [RN:R00226 R08648]	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		3.0	2.0	3.0	3.0	3.0	2.0
+K01586	diaminopimelate decarboxylase [EC:4.1.1.20] [RN:R00451]	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K01586	diaminopimelate decarboxylase [EC:4.1.1.20] [RN:R00451]	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K01586	diaminopimelate decarboxylase [EC:4.1.1.20] [RN:R00451]	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	1.0
+K01652	acetolactate synthase [EC:2.2.1.6] [RN:R08648]	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	Organic Nitrogen	Amino Acid		3.0	2.0	3.0	3.0	3.0	2.0

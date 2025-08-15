@@ -1,0 +1,15 @@
+# Shotgun sequencing trimmed data (Fastp)
+# TODO: Replace [ADD LINK HERE] with actual public OneDrive or NCBI SRA link before uploading to GitHub
+
+SDX_R1.trimmed.fastq.gz - [ADD LINK HERE]
+SDX_R2.trimmed.fastq.gz - [ADD LINK HERE]
+SDY_R1.trimmed.fastq.gz - [ADD LINK HERE]
+SDY_R2.trimmed.fastq.gz - [ADD LINK HERE]
+LSGF-Kvass-X_R1.trimmed.fastq.gz - [ADD LINK HERE]
+LSGF-Kvass-X_R2.trimmed.fastq.gz - [ADD LINK HERE]
+Std-Kvass-X_R1.trimmed.fastq.gz - [ADD LINK HERE]
+Std-Kvass-X_R2.trimmed.fastq.gz - [ADD LINK HERE]
+LSF-Kvass-X_R1.trimmed.fastq.gz - [ADD LINK HERE]
+LSF-Kvass-X_R2.trimmed.fastq.gz - [ADD LINK HERE]
+LSF-Kvass-Y_R1.trimmed.fastq.gz - [ADD LINK HERE]
+LSF-Kvass-Y_R2.trimmed.fastq.gz - [ADD LINK HERE]

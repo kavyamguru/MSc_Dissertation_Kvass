@@ -1,0 +1,36 @@
+gene_id	gene_description	pathway	topic_ecosystem	category	subcategory	E1	F1	B1	D1	C1	AA
+K01647	citrate synthase [EC:2.3.3.1] [RN:R00351]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	3.0	3.0	2.0	3.0	3.0	3.0
+K00031	isocitrate dehydrogenase [EC:1.1.1.42 1.1.1.41] [RN:R01899 R00268 R00267 R00709]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	3.0	3.0	1.0	3.0	3.0	3.0
+K00164	2-oxoglutarate dehydrogenase complex [EC:1.2.4.2 2.3.1.61 1.8.1.4] [RN:R00621 R03316 R02570 R07618]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	1.0	1.0	1.0	1.0	1.0	1.0
+K00382	2-oxoglutarate dehydrogenase complex [EC:1.2.4.2 2.3.1.61 1.8.1.4] [RN:R00621 R03316 R02570 R07618]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	9.0	7.0	8.0	9.0	9.0	6.0
+K00234	succinate dehydrogenase [EC:1.3.5.1] [RN:R02164]	Citrate cycle (TCA cycle, Krebs cycle)	carbon utilization	central carbon	TCA	6.0	5.0	4.0	6.0	6.0	6.0
+K00850	6-phosphofructokinase [EC:2.7.1.11] [RN:R04779]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	3.0	2.0	2.0	3.0	3.0	3.0
+K00134	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12 1.2.1.59] [RN:R01061 R01063]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	5.0	6.0	4.0	6.0	6.0	4.0
+K01834	phosphoglycerate mutase [EC:5.4.2.11 5.4.2.12] [RN:R01518]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	22.0	13.0	21.0	22.0	22.0	15.0
+K01689	enolase [EC:4.2.1.11] [RN:R00658]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	6.0	4.0	5.0	6.0	6.0	7.0
+K00873	pyruvate kinase [EC:2.7.1.40] [RN:R00200]	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	carbon utilization	central carbon	glycolysis	5.0	3.0	5.0	5.0	5.0	4.0
+K01637	isocitrate lyase [EC:4.1.3.1] [RN:R00479]	Glyoxylate cycle	carbon utilization	central carbon	glycolysis	2.0	2.0	2.0	2.0	2.0	2.0
+K01638	malate synthase [EC:2.3.3.9] [RN:R00472]	Glyoxylate cycle	carbon utilization	central carbon	glycolysis	2.0	2.0	1.0	2.0	2.0	2.0
+K00627	pyruvate dehydrogenase complex [EC:1.2.4.1 2.3.1.12 1.8.1.4] [RN:R00209]	Pyruvate oxidation, pyruvate => acetyl-CoA	carbon utilization	pyruvate metabolism		5.0	4.0	5.0	5.0	5.0	4.0
+K00625	phosphate acetyltransferase [EC:2.3.1.8] [RN:R00230]	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	carbon utilization	pyruvate metabolism		2.0	1.0	2.0	2.0	2.0	1.0
+K00925	acetate kinase [EC:2.7.2.1] [RN:R00315]	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	carbon utilization	pyruvate metabolism		7.0	4.0	7.0	7.0	7.0	3.0
+K00001	alcohol dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		4.0	3.0	2.0	4.0	4.0	4.0
+K00016	L-lactate dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		8.0	2.0	9.0	8.0	8.0	6.0
+K03778	D-lactate dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		4.0	1.0	3.0	4.0	4.0	3.0
+K01512	acylphosphatase	pyruvate metabolism	carbon utilization	pyruvate metabolism		2.0	1.0	2.0	2.0	2.0	1.0
+K05605	3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] [RN:R03157 R03158]	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	Energy	Electron transport Chain		2.0	2.0	0.0	2.0	2.0	1.0
+K01626	3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] [RN:R01826]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		2.0	2.0	1.0	2.0	2.0	2.0
+K01735	3-dehydroquinate synthase [EC:4.2.3.4] [RN:R03083]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K03785	3-dehydroquinate dehydratase [EC:4.2.1.10] [RN:R03084]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		2.0	0.0	2.0	2.0	2.0	2.0
+K00014	shikimate 5-dehydrogenase [EC:1.1.1.25] [RN:R02413]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		5.0	1.0	2.0	5.0	5.0	5.0
+K00891	shikimate kinase [EC:2.7.1.71] [RN:R02412]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19] [RN:R03460]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		5.0	2.0	5.0	5.0	5.0	3.0
+K01736	chorismate synthase [EC:4.2.3.5] [RN:R01714]	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K00620	glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1] [RN:R00259 R02282]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K00930	acetylglutamate kinase [EC:2.7.2.8] [RN:R02649]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		1.0	0.0	1.0	1.0	1.0	1.0
+K00818	acetylornithine aminotransferase [EC:2.6.1.11] [RN:R02283]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		2.0	1.0	1.0	1.0	1.0	1.0
+K01438	acetylornithine deacetylase [EC:3.5.1.16] [RN:R00669]	Ornithine biosynthesis, glutamate => ornithine	Organic Nitrogen	Amino Acid		1.0	1.0	1.0	1.0	1.0	1.0
+K00611	ornithine carbamoyltransferase [EC:2.1.3.3] [RN:R01398]	Urea cycle	Organic Nitrogen	Amino Acid		3.0	2.0	3.0	3.0	3.0	2.0
+K01940	argininosuccinate synthase [EC:6.3.4.5] [RN:R01954]	Urea cycle	Organic Nitrogen	Amino Acid		2.0	1.0	2.0	2.0	2.0	2.0
+K01755	argininosuccinate lyase [EC:4.3.2.1] [RN:R01086]	Urea cycle	Organic Nitrogen	Amino Acid		2.0	1.0	1.0	2.0	2.0	2.0
+K01476	arginase [EC:3.5.3.1] [RN:R00551]	Urea cycle	Organic Nitrogen	Amino Acid		1.0	1.0	0.0	1.0	1.0	1.0

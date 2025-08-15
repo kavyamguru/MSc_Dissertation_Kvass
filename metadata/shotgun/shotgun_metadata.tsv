@@ -1,0 +1,7 @@
+#SampleID	Starter	Sample_Type	Formulation	Inulin	Ginger	Sugar
+AA	X	starter	SDX	no	no	none
+B1	Y	starter	SDY	no	no	none
+C1	X	kvass	LSGF-Kvass-X	yes	yes	low
+D1	X	kvass	STDkvassX	no	no	standard
+E1	X	kvass	LSF-Kvass-X	yes	no	low
+F1	Y	kvass	LSF-Kvass-Y	yes	no	low

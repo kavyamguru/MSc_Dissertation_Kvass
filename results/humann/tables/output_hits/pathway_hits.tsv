@@ -1,0 +1,15 @@
+# Pathway	AA_combined_Abundance	B1_combined_Abundance	C1_combined_Abundance	D1_combined_Abundance	E1_combined_Abundance	F1_combined_Abundance	Category	Gene_Short
+PWY-7337: 10-cis-heptadecenoyl-CoA degradation (yeast)	11.3805	5.33976	19.955	30.2256	30.2067	38.1834	Acidification	pta
+PWY-7338: 10-trans-heptadecenoyl-CoA degradation (reductase-dependent, yeast)	11.3805	5.33976	19.955	30.2256	30.2067	38.1834	Acidification	pta
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II	0.0	3.80774	0.0	0.0	0.0	0.0	Acidification	pox
+PWY-6309: L-tryptophan degradation XI (mammalian, via kynurenine)	12.7684	6.7468	18.789	28.1871	26.8124	31.3967	Health_Associated	kynU
+HSERMETANA-PWY: L-methionine biosynthesis III	655.804	34.1989	256.322	161.265	235.139	36.1779	Phytochemical	tanA
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)	515.101	870.211	500.917	477.163	460.561	577.183	Aroma_Flavor	als
+UDPNACETYLGALSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis II	38.5617	10.7505	49.4001	67.55	65.8595	67.2217	Aroma_Flavor	als
+VALSYN-PWY: L-valine biosynthesis	29.2747	20.0426	35.7834	49.4509	51.933	54.4763	Aroma_Flavor	als
+PWY66-398: TCA cycle III (animals)	28.4767	10.7389	42.228	61.1311	59.5773	75.9078	Aroma_Flavor	als
+PWY-5972: stearate biosynthesis I (animals)	18.0009	7.62427	27.4186	38.8221	39.154	49.2038	Aroma_Flavor	als
+PWY-7919: protein N-glycosylation processing phase (plants and animals)	11.5372	4.09856	17.2942	24.5804	24.8932	30.79	Aroma_Flavor	als
+PWY-7724: icosapentaenoate biosynthesis III (8-desaturase, mammals)	9.40358	4.20547	13.5045	18.6259	19.5987	25.4914	Aroma_Flavor	als
+PWY-7725: arachidonate biosynthesis V (8-detaturase, mammals)	8.14153	3.65614	11.6789	16.0636	16.9424	22.0239	Aroma_Flavor	als
+PWY-7606: docosahexaenoate biosynthesis III (6-desaturase, mammals)	2.39404	3.87462	0.0	0.0	0.0	0.0	Aroma_Flavor	als

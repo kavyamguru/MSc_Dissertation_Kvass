@@ -1,0 +1,111 @@
+Species	AA	B1	C1	D1	E1	F1
+Acetobacter ascendens	0.0	1e-05	0.0	0.0	0.0	0.0
+Acetobacter orientalis	0.0	1e-05	0.0	0.0	0.0	0.0
+Acetobacter oryzoeni	0.0	5e-05	0.0	0.0	0.0	0.0
+Acetobacter persici	0.0	0.0	0.0	0.0	0.0	0.0
+Acetobacter pomorum	0.0	0.0004	0.0	0.0	0.0	0.0
+Acetobacter senegalensis	0.0	0.00022	0.0	0.0	0.0	1e-05
+Acetobacter sp. KSO5	0.0	1e-05	0.0	0.0	0.0	0.0
+Acetobacter tropicalis	0.0	0.00031	0.0	0.0	0.0	1e-05
+Actinomyces oris	2e-05	0.0	2e-05	2e-05	2e-05	2e-05
+Alternaria dauci	2e-05	7e-05	0.0	0.0	0.0	0.0
+Aspergillus chevalieri	0.0	1e-05	0.0	0.0	0.0	0.0
+Bacillus cereus	1e-05	0.0	2e-05	2e-05	2e-05	2e-05
+Botrytis cinerea	0.0	1e-05	0.0	0.0	0.0	0.0
+Brachybacterium sp. Z12	0.0	1e-05	0.0	0.0	0.0	0.0
+Chryseobacterium sp. JJR-5R	3e-05	1e-05	0.0	0.0	0.0	0.0
+Clavibacter phaseoli	2e-05	6e-05	0.0	0.0	0.0	0.0
+Companilactobacillus paralimentarius	1e-05	2e-05	1e-05	2e-05	2e-05	1e-05
+Corynebacterium nuruki	0.0	1e-05	0.0	0.0	0.0	0.0
+Curtobacterium flaccumfaciens	6e-05	0.00013	0.0	0.0	0.0	0.0
+Curtobacterium sp. KT1	6e-05	0.00018	0.0	0.0	0.0	0.0
+Curtobacterium sp. MCJR17_020	0.0	2e-05	0.0	0.0	0.0	0.0
+Curtobacterium sp. MCLR17_007	0.0	1e-05	0.0	0.0	0.0	0.0
+Curtobacterium sp. MCLR17_032	3e-05	0.00013	0.0	0.0	0.0	0.0
+Dietzia kunjamensis	0.0	0.0	0.0	0.0	0.0	0.0
+Duffyella gerundensis	1e-05	2e-05	0.0	0.0	0.0	0.0
+Erwinia persicina	2e-05	4e-05	0.0	0.0	0.0	0.0
+Escherichia coli	0.00036	8e-05	0.00083	0.0013	0.00118	0.00165
+Frigoribacterium sp. NBH87	1e-05	5e-05	0.0	0.0	0.0	0.0
+Frigoribacterium sp. R86507	2e-05	6e-05	0.0	0.0	0.0	0.0
+Frigoribacterium sp. SL97	4e-05	0.00015	0.0	0.0	0.0	0.0
+Fructilactobacillus sanfranciscensis	0.0	0.0	0.0	0.0	0.0	0.0
+Fusarium graminearum	1e-05	1e-05	0.0	0.0	0.0	0.0
+Fusarium poae	0.0	1e-05	0.0	0.0	0.0	0.0
+Heilongjiangvirus Lb	0.0	1e-05	1e-05	2e-05	1e-05	2e-05
+Homo sapiens	0.0005	0.00084	0.00011	0.00018	0.00014	0.00015
+Kineococcus sp. NBC_00420	0.0	4e-05	0.0	0.0	0.0	0.0
+Komagataella phaffii	0.0	0.0	0.0	0.0	0.0	0.0
+Kosakonia cowanii	0.0	2e-05	0.0	0.0	0.0	0.0
+Kozakia baliensis	0.0	0.0	0.0	0.0	0.0	0.0
+Lacticaseibacillus paracasei	0.0	0.00031	0.0	0.0	0.0	1e-05
+Lactiplantibacillus argentoratensis	0.0	0.0	0.0	2e-05	2e-05	0.0
+Lactiplantibacillus pentosus	0.0	6e-05	5e-05	7e-05	6e-05	7e-05
+Lactiplantibacillus plantarum	0.92168	0.04018	0.41516	0.23914	0.369	0.01244
+Latilactobacillus curvatus	0.0	0.00095	0.00081	0.0008	0.00051	0.00147
+Leifsonia sp. 21MFCrub1.1	0.0	1e-05	0.0	0.0	0.0	0.0
+Lentilactobacillus hilgardii	0.0	0.00012	4e-05	4e-05	3e-05	0.00012
+Lentilactobacillus kefiri	0.0	4e-05	4e-05	4e-05	3e-05	8e-05
+Levilactobacillus brevis	0.00044	0.92742	0.43998	0.54765	0.42188	0.75283
+Levilactobacillus cerevisiae	0.0	1e-05	0.0	1e-05	1e-05	1e-05
+Levilactobacillus namurensis	0.0	0.0	0.0	0.0	0.0	0.0
+Levilactobacillus yonginensis	0.0	0.00014	9e-05	0.00014	0.00012	0.00016
+Ligilactobacillus acidipiscis	0.0011	0.0	0.00067	0.0003	0.00051	0.0
+Limosilactobacillus fermentum	7e-05	1e-05	3e-05	2e-05	3e-05	0.0
+Liquorilactobacillus mali	0.0	0.0001	0.00028	0.00019	0.00023	0.0001
+Loigolactobacillus backii	0.0	0.0	0.0	0.0	0.0	0.0
+Loigolactobacillus coryniformis	0.0	0.00045	0.0	0.0	0.0	0.0
+Mammaliicoccus lentus	0.0	0.0	0.0	0.0	0.0	0.0
+Methylobacterium sp. WL1	0.0	2e-05	0.0	0.0	0.0	0.0
+Microbacterium galbinum	0.0	0.0	0.0	0.0	0.0	0.0
+Microbacterium sp. BH-3-3-3	0.0	1e-05	0.0	0.0	0.0	0.0
+Myxococcus fulvus	0.0	1e-05	0.0	0.0	0.0	0.0
+Pantoea agglomerans	0.00065	0.00141	0.0	1e-05	0.0	1e-05
+Pantoea allii	0.0	0.0	0.0	0.0	0.0	0.0
+Pantoea ananatis	6e-05	0.00027	0.0	0.0	0.0	0.0
+Pantoea sp. Lij88	0.0	0.0	0.0	0.0	0.0	0.0
+Paraburkholderia fungorum	0.0	4e-05	0.0	0.0	0.0	0.0
+Pediococcus acidilactici	0.0	0.0	0.0	0.0	0.0	0.0
+Pediococcus claussenii	0.0	0.0	0.0	0.0	0.0	2e-05
+Pediococcus pentosaceus	0.0	1e-05	1e-05	1e-05	1e-05	2e-05
+Pseudomonas coleopterorum	2e-05	0.0002	0.0	0.0	0.0	0.0
+Pseudomonas congelans	0.0	4e-05	0.0	0.0	0.0	0.0
+Pseudomonas graminis	0.0	1e-05	0.0	0.0	0.0	0.0
+Pseudomonas orientalis	1e-05	4e-05	0.0	0.0	0.0	0.0
+Pseudomonas poae	5e-05	0.00021	0.0	0.0	0.0	1e-05
+Pseudomonas rhizosphaerae	0.0	1e-05	0.0	0.0	0.0	0.0
+Pseudomonas sp. 15A4	1e-05	5e-05	0.0	0.0	0.0	0.0
+Pseudomonas sp. KU26590	0.0	2e-05	0.0	0.0	0.0	0.0
+Pseudomonas sp. MH9.3	2e-05	7e-05	0.0	0.0	0.0	0.0
+Pseudomonas sp. MM227	0.0	1e-05	0.0	0.0	0.0	0.0
+Pseudomonas syringae	2e-05	0.00011	0.0	0.0	0.0	0.0
+Pseudomonas trivialis	1e-05	4e-05	0.0	0.0	0.0	0.0
+Pseudomonas viridiflava	0.0	1e-05	0.0	0.0	0.0	0.0
+Pyrenophora tritici-repentis	5e-05	0.00016	0.0	0.0	0.0	0.0
+Rahnella bonaserana	1e-05	1e-05	0.0	0.0	0.0	0.0
+Rathayibacter festucae	2e-05	7e-05	0.0	0.0	0.0	0.0
+Rathayibacter sp. VKM Ac-2804	0.0	2e-05	0.0	0.0	0.0	0.0
+Rhodococcoides fascians	1e-05	2e-05	0.0	0.0	0.0	0.0
+Rivsvirus SNUABM5	0.0	0.0	0.0	0.0	0.0	0.0
+Saccharibacillus brassicae	0.0	0.0	0.0	0.0	0.0	0.0
+Saccharomyces cerevisiae	0.0742	0.02357	0.1411	0.20902	0.20524	0.22966
+Saccharomyces eubayanus	4e-05	1e-05	0.00018	0.00022	0.00022	0.00022
+Saccharomyces mikatae	0.0	0.0	0.0	0.0	0.0	0.0
+Saccharomyces paradoxus	0.0001	3e-05	0.0002	0.00028	0.00028	0.00031
+Saccharopolyspora gregorii	0.0	0.0	0.0	0.0	0.0	0.0
+Sanguibacter biliveldensis	1e-05	8e-05	0.0	0.0	0.0	0.0
+Secundilactobacillus paracollinoides	0.0	9e-05	6e-05	8e-05	7e-05	8e-05
+Sodalis glossinidius	0.0	0.0	0.0	0.0	0.0	0.0
+Sodalis praecaptivus	1e-05	4e-05	0.0	0.0	0.0	0.0
+Sphingomonas aerolata	7e-05	0.00022	0.0	0.0	0.0	0.0
+Sphingomonas albertensis	0.0	1e-05	0.0	0.0	0.0	0.0
+Sphingomonas sp. PAMC26645	2e-05	6e-05	0.0	0.0	0.0	0.0
+Staphylococcus equorum	0.0	2e-05	0.0	0.0	0.0	0.0
+Staphylococcus succinus	0.0	1e-05	0.0	0.0	0.0	0.0
+Stenotrophomonas maltophilia	0.0	1e-05	0.0	0.0	0.0	0.0
+Stenotrophomonas rhizophila	0.0	0.0	0.0	0.0	0.0	0.0
+Vibrio anguillarum	9e-05	1e-05	0.0002	0.00031	0.00029	0.00038
+Weissella cibaria	0.0	0.0	0.0	0.0	0.0	0.0
+Weissella paramesenteroides	0.0	0.0001	7e-05	8e-05	6e-05	0.00011
+Xanthomonas sp. NCPPB 2632	0.0	2e-05	0.0	0.0	0.0	0.0
+Zygotorulaspora mrakii	0.0	0.0	1e-05	1e-05	1e-05	1e-05

@@ -1,0 +1,11 @@
+gene_id	PHAGC_Category	PHAGC_Function	SDX	SDY	STDkvassX	LSFkvassX	LSFkvassY	LSGFkvassX
+K00925	Modulation	SCFA production (butyrate, acetate)	3	7	7	7	4	7
+K01193	Survival	Osmoprotectant systems	3	1	3	3	2	3
+K02001	Survival	Osmoprotectant systems	2	5	4	4	2	4
+K02002	Survival	Osmoprotectant systems	1	2	2	2	1	2
+K03778	Modulation	Phenyl-lactic acid synthesis	3	3	4	4	1	4
+K03778	Modulation	d-Lactate Dehydrogenase (d-LDH)	3	3	4	4	1	4
+K05845	Survival	Osmoprotectant systems	1	3	3	3	2	3
+K05846	Survival	Osmoprotectant systems	4	7	7	7	3	7
+K05847	Survival	Osmoprotectant systems	2	4	4	4	3	4
+K09690	Colonisation	Exopolysaccharide biosynthesis	1	2	2	2	1	2

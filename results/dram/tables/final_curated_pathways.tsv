@@ -1,0 +1,101 @@
+Category	Pathway	Regex_to_search
+Acidification	Phosphoketolase pathway	phosphoketolase|xpk|xfp|pkp|EC[ :]?4\.1\.2\.9
+Acidification	Lactic acid fermentation	ldh|l-?lactate dehydrogenase|d-?lactate dehydrogenase|homolactic
+Acidification	Acetate production	pta|ack|poxB|acetate kinase|phosphate acetyltransferase
+Acidification	Malolactic conversion	mle|malolactic
+SCFA_Production	Butyrate synthesis	but|buk|ptb
+Immune_Modulation	Phagosome pathway	phagosome
+Immune_Modulation	Toll-like receptor signaling	toll-?like|TLR
+Immune_Modulation	Autophagy	autophagy|atg
+Immune_Modulation	Complement system	complement
+Immune_Modulation	Fc gamma R-mediated phagocytosis	Fc.?gamma|fcgr
+Barrier_Function	Tight junction integrity	ocln|cldn|tjp1|tight junction
+Mucin_Degradation	Mucin degradation	sialidase|nanH|fucosidase|glycan
+Bile_Acid_Metabolism	Bile salt hydrolase and dehydratase	BSH|baiE|hydroxysteroid
+Neuroactive_Molecules	GABA synthesis	gadB|GABA
+Neuroactive_Molecules	Tryptophan metabolism	tnaA|kynU|tryptophanase|kynureninase|indole
+Aroma_Flavor	Ester and aromatic compound synthesis	atf|aro8|als|acetolactate|alcohol acetyltransferase
+Stress_Tolerance	Acid and oxidative stress	gadB|arcA|sodA|kat|trxB|oxidative|acid stress
+Food_Safety	Biogenic amine production	hdc|tdc|ldc|histamine|tyramine|cadaverine
+Phytochemical	Phenolic degradation	fae|pad1|tannase|tanA|tanB|phenolic|tannin
+Texture	EPS production	gtf|levS|eps|exopolysaccharide|glucansucrase
+
+Vitamin	Thiamine (B1) biosynthesis	thiC|thiE|thiF|thiS|thiG|thiD|thiL|tpk|thiamin
+Vitamin	Thiamine (B1) salvage/transport	thiT|thiB|thiP|thiQ|thiBPQ|tenA|thiamine.*transport
+Vitamin	Riboflavin (B2) biosynthesis	ribA|ribB|ribD|ribE|ribH|ribF|riboflavin
+Vitamin	Riboflavin (B2) salvage/transport	ribU|ECF.*riboflavin|riboflavin.*transport
+Vitamin	Niacin (B3, NAD) biosynthesis	nadA|nadB|nadC|nadE|nicotinate|niacin
+Vitamin	Niacin (B3) salvage/transport	pncA|pncB|nadV|nadR|niaP|pnuC|nicotinamide
+Vitamin	Pantothenate/CoA (B5) biosynthesis	panB|panC|panD|panE|coaA|coaB|coaC|coaD|coaE|coaBC
+Vitamin	Pantothenate (B5) salvage/transport	panK|panT|pantothenate.*transport
+Vitamin	Pyridoxal-P (B6) biosynthesis	pdxA|pdxJ|pdxS|pdxT|pyridox
+Vitamin	Pyridoxal-P (B6) salvage	pdxK|pdxY|pdxH|pyridox.*kinase
+Vitamin	Biotin (B7) biosynthesis	bioA|bioB|bioD|bioF|bioW|bioC|biotin.*synth
+Vitamin	Biotin (B7) transport	bioY|bioM|bioN|biotin.*transport
+Vitamin	Folate (B9) biosynthesis	folE|folB|folK|folP|folC|folA|dihydro.*folate|tetrahydrofolate
+Vitamin	Folate (B9) salvage	pabA|pabB|pabC|folK|p-?aminobenzoate|PABA
+Vitamin	Cobalamin (B12) biosynthesis	cob[a-zA-Z]+|cbi[a-zA-Z]+|cobalamin|corrinoid
+Vitamin	Cobalamin (B12) transport/salvage	btuB|btuC|btuD|btuF|cobU|cobT|cobS|cobA|cobalamin.*transport
+
+Central_Carbon	TCA cycle (Krebs)	gltA|citA|citrate synthase|acnA|acnB|aconitase|icd|idh|isocitrate dehydrogenase|sucA|sucB|sucC|sucD|ogdh|lpd|sdhA|sdhB|sdhC|sdhD|fumA|fumB|fumC|fumarase|mdh
+Central_Carbon	Glyoxylate shunt	aceA|isocitrate lyase|aceB|malate synthase
+Central_Carbon	Glycolysis (EMP)	glk|hxk|hexokinase|glucokinase|pgi|pfkA|pfkB|fbaA|fbaB|tpiA|gapA|pgk|pgm|eno|pyk
+Central_Carbon	Pentose phosphate (oxidative)	zwf|glucose-6-phosphate 1-dehydrogenase|pgl|6-?phosphogluconolactonase|gnd|6-?phosphogluconate dehydrogenase
+Central_Carbon	Pentose phosphate (non-oxidative)	rpe|rpiA|rpiB|tktA|tktB|talA|talB|ribose 5-?phosphate isomerase|transketolase|transaldolase
+Central_Carbon	Entner–Doudoroff (ED)	edd|eda|KDPG aldolase|2-?dehydro-?3-?deoxyphosphogluconate aldolase
+Central_Carbon	Gluconeogenesis	ppdK|ppsA|pckA|pckG|fbp|fructose-1,6-bisphosphatase
+Central_Carbon	Pyruvate → acetyl-CoA (PDH/PFOR/PFL)	aceE|aceF|pdhA|pdhB|pdhC|lpd|pfo|pfl|pflA|pflB|pyruvate formate lyase activating
+Central_Carbon	Ethanol/Lactate fermentation	adhE|adh[0-9]*|alcohol dehydrogenase|aldh|acetaldehyde dehydrogenase|ldh
+
+Energy_Respiration	Complex I (NDH-1 / Na+-NQR)	nuo[A-N]|NADH dehydrogenase.*(ubiquinone|quinone)|nqr[ABCDEF]|Na\+-transporting NADH:quinone oxidoreductase
+Energy_Respiration	Complex II (Succinate dehydrogenase)	sdhA|sdhB|sdhC|sdhD|succinate dehydrogenase
+Energy_Respiration	Cytochrome bc1 (Complex III)	petA|petB|petC|fbcH|cytochrome c1|ubiquinol-?cytochrome c reductase
+Energy_Respiration	Cytochrome bd terminal oxidase	cydA|cydB|cydX|cytochrome bd
+Energy_Respiration	Cytochrome c oxidase (aa3/bo3/cbb3)	coxA|coxB|coxC|ctaD|ctaE|ctaC|ccoN|ccoO|ccoP|ccoQ|cytochrome c oxidase
+Energy_Respiration	F-type ATP synthase	atpA|atpB|atpC|atpD|atpE|atpF|atpG|atpH|ATP synthase
+Energy_Respiration	V/A-type ATPase	atpV|atpI|atpK|V-?type H\+-transporting ATPase|A-?type H\+-transporting ATPase
+
+Energy_Nitrogen	Denitrification	narG|narH|narI|napA|napB|nirS|nirK|norB|norC|nosZ|nitrate reductase.*(respiratory|periplasmic)|nitrite reductase|nitric oxide reductase|nitrous oxide reductase
+Energy_Nitrogen	Dissimilatory nitrate → ammonia (DNRA)	nrfA|nrfH|nitrate reductase.*(narG|narH|narI)|nrf
+Energy_Nitrogen	Assimilatory nitrate/nitrite reduction	nasA|narB|nirB|nirD|assimilatory nitrate reductase|assimilatory nitrite reductase
+Energy_Nitrogen	Nitrite oxidoreductase / comammox	nxrA|nxrB|nitrite oxidoreductase|comammox
+Energy_Nitrogen	Ammonia monooxygenase (nitrification)	amoA|amoB|amoC|ammonia monooxygenase
+
+Energy_Sulfur	Assimilatory sulfate reduction	cysD|cysN|sat|cysC|cysH|cysIJ|APS kinase|PAPS reductase|sulfite reductase
+Energy_Sulfur	Dissimilatory sulfate reduction/oxidation	dsrA|dsrB|aprA|aprB|sat|sulfate adenylyltransferase
+Energy_Sulfur	Sox thiosulfate oxidation	soxA|soxB|soxC|soxD|soxX|soxY|soxZ
+Energy_Hydrogenases	[NiFe]/[FeFe] hydrogenases	hydA|hya[ABC]|hyb[ABC]|hyc[ABCDEF]|ferredoxin hydrogenase
+
+C1_Metabolism	Wood–Ljungdahl (reductive acetyl-CoA)	acsA|acsB|cdhA|cdhB|fdhA|fhs|folD|metF|fchA|formate-?tetrahydrofolate ligase
+C1_Metabolism	Calvin cycle	rbcL|rbcS|ribulose-1,5-bisphosphate carboxylase|prk|phosphoribulokinase
+C1_Metabolism	F\(_{420}\) biosynthesis	fbiA|fbiB|fbiC|fbiD|cofG|cofH|LPPG:FO|F420
+C1_Metabolism	Methanogenesis (marker set)	mcrA|mcrB|mcrG|mtr[ABCDEFGH]|fwd|fmd|mtd|hdrA|hdrB|hdrC
+
+Amino_Acid_Biosyn	Shikimate → chorismate	aroA|aroB|aroC|aroD|aroE|aroK|aroL|shikimate|chorismate synthase
+Amino_Acid_Biosyn	Tryptophan (from chorismate)	trpE|trpG|trpD|trpC|trpB|trpA|anthranilate synthase|indole-3-glycerol phosphate synthase
+Amino_Acid_Biosyn	Phenylalanine (from chorismate)	pheA|prephenate dehydratase|chorismate mutase
+Amino_Acid_Biosyn	Tyrosine (from chorismate)	tyrA|prephenate dehydrogenase|chorismate mutase|tyrosine aminotransferase
+Amino_Acid_Biosyn	Histidine (his operon)	hisG|hisE|hisI|hisA|hisF|hisH|hisB|hisC|hisD
+Amino_Acid_Biosyn	Serine (from 3-PG)	serA|serC|serB|phosphoglycerate dehydrogenase|phosphoserine aminotransferase|phosphoserine phosphatase
+Amino_Acid_Biosyn	Cysteine (from serine)	cysE|cysK|cysM|serine O-?acetyltransferase|cysteine synthase
+Amino_Acid_Biosyn	Methionine (aspartate family)	metA|metB|metC|metE|metH|methionine synthase
+Amino_Acid_Biosyn	Lysine (DAP pathway)	dapA|dapB|dapD|dapC|dapE|dapF|lysA|diaminopimelate
+Amino_Acid_Biosyn	Lysine (AAA pathway)	lysX|homoaconitase|homoisocitrate dehydrogenase|homocitrate synthase
+Amino_Acid_Biosyn	Branched-chain AA (Val/Ile/Leu)	ilvB|ilvN|ilvC|ilvD|ilvE|leuA|leuB|leuC|leuD|acetolactate synthase|ketol-?acid reductoisomerase|dihydroxy-?acid dehydratase
+Amino_Acid_Biosyn	Proline (from glutamate)	proA|proB|proC|pyrroline-5-carboxylate reductase
+
+Amino_Acid_Degrad	Leucine/Isoleucine/Valine degradation	bkdA|bkdB|bkdC|lpd|acyl-?CoA dehydrogenase|enoyl-?CoA hydratase
+Amino_Acid_Degrad	Lysine → saccharopine route	saccharopine dehydrogenase|2-?aminoadipate transaminase|l-?2-?aminoadipate reductase
+Amino_Acid_Degrad	Methionine cycle / SAM	S-?adenosylmethionine synthetase|metK|adenosylhomocysteinase
+
+Carbohydrate_Transport	PTS mannose system	manX|manY|manZ|EIIAB|EIIC|EIID|PTS.*mannose
+Carbohydrate_Transport	Maltose/maltodextrin ABC	malE|malF|malG|malK|maltose-?binding protein|maltodextrin
+Carbohydrate_Transport	Multiple sugar ABC (msm)	msmX|msmK|msmE|msmF|msmG|multiple sugar transport
+Carbohydrate_Transport	Cellobiose transport	celA|celB|celC|celD|cellobiose.*transport|bgl
+Carbohydrate_Transport	Fructose PTS	fruA|fruB|fruK|PTS.*fructose|fructokinase
+Carbohydrate_Transport	Sorbitol/Mannitol (srl/mtl)	mtlA|mtlD|srlA|srlE|sorbitol|mannitol.*transport
+Carbohydrate_Transport	sn-Glycerol-3-P (ugp)	ugpA|ugpB|ugpC|ugpE|sn-?glycerol.*3-?phosphate transport
+Carbohydrate_Transport	Glycine betaine/Proline (ProVWX)	proV|proW|proX|glycine betaine transport|proline transport
+Carbohydrate_Transport	L-Cystine (tcy/fliY)	tcyA|tcyB|tcyC|fliY|L-?cystine transport
+Iron_Sulfur_Transport	Iron(III) ABC (fep/afu/etc.)	fepB|fepC|fepD|fepG|afuA|iron\(III\).*transport|siderophore.*transport
+Sulfonate_Taurine_Transport	Sulfonate/nitrate/taurine ABC	ssaB|ssuA|tauA|tauB|tauC|NitT|TauT|sulfonate transport|taurine transport

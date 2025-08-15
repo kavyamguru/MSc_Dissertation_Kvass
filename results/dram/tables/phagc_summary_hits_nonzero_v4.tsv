@@ -1,0 +1,21 @@
+gene_id	PHAGC_Category	PHAGC_Function	Matched_Term	gene_description	pathway	topic_ecosystem	category	subcategory	E1	F1	B1	D1	C1	AA
+K09690	Colonisation	Exopolysaccharide biosynthesis	lipopolysaccharide transport	ABC-2.LPSE.P; lipopolysaccharide transport system permease protein	Lipopolysaccharide transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K09690	Colonisation	Exopolysaccharide biosynthesis	k09690	ABC-2.LPSE.P; lipopolysaccharide transport system permease protein	Lipopolysaccharide transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02002	Survival	Osmoprotectant systems	glycine betaine	proX; glycine betaine/proline transport system substrate-binding protein	Glycine betaine/proline transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02001	Survival	Osmoprotectant systems	glycine betaine	proW; glycine betaine/proline transport system permease protein	Glycine betaine/proline transport system	Transporters			4.0	2.0	5.0	4.0	4.0	2.0
+K05845	Survival	Osmoprotectant systems	osmoprotectant	ABC.BCP1.S; osmoprotectant transport system substrate-binding protein	Osmoprotectant transport system	Transporters			3.0	2.0	3.0	3.0	3.0	1.0
+K05846	Survival	Osmoprotectant systems	osmoprotectant	ABC.BCP1.P; osmoprotectant transport system permease protein	Osmoprotectant transport system	Transporters			7.0	3.0	7.0	7.0	7.0	4.0
+K05847	Survival	Osmoprotectant systems	osmoprotectant	ABC.BCP1.A; osmoprotectant transport system ATP-binding protein	Osmoprotectant transport system	Transporters			4.0	3.0	4.0	4.0	4.0	2.0
+K01193	Survival	Osmoprotectant systems	k01193	beta-fructofuranosidase	Starch and sucrose metabolism	carbon utilization (Woodcroft)	sugar utilization	sucrose degradation	3.0	2.0	1.0	3.0	3.0	3.0
+K02002	Survival	Osmoprotectant systems	k02002	proX; glycine betaine/proline transport system substrate-binding protein	Glycine betaine/proline transport system	Transporters			2.0	1.0	2.0	2.0	2.0	1.0
+K02001	Survival	Osmoprotectant systems	k02001	proW; glycine betaine/proline transport system permease protein	Glycine betaine/proline transport system	Transporters			4.0	2.0	5.0	4.0	4.0	2.0
+K05845	Survival	Osmoprotectant systems	k05845	ABC.BCP1.S; osmoprotectant transport system substrate-binding protein	Osmoprotectant transport system	Transporters			3.0	2.0	3.0	3.0	3.0	1.0
+K05846	Survival	Osmoprotectant systems	k05846	ABC.BCP1.P; osmoprotectant transport system permease protein	Osmoprotectant transport system	Transporters			7.0	3.0	7.0	7.0	7.0	4.0
+K05847	Survival	Osmoprotectant systems	k05847	ABC.BCP1.A; osmoprotectant transport system ATP-binding protein	Osmoprotectant transport system	Transporters			4.0	3.0	4.0	4.0	4.0	2.0
+K03778	Modulation	d-Lactate Dehydrogenase (d-LDH)	d-lactate dehydrogenase	D-lactate dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		4.0	1.0	3.0	4.0	4.0	3.0
+K03778	Modulation	d-Lactate Dehydrogenase (d-LDH)	k03778	D-lactate dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		4.0	1.0	3.0	4.0	4.0	3.0
+K03778	Modulation	Phenyl-lactic acid synthesis	k03778	D-lactate dehydrogenase	fermentation-	carbon utilization	pyruvate metabolism		4.0	1.0	3.0	4.0	4.0	3.0
+K00925	Modulation	SCFA production (butyrate, acetate)	acetate kinase	acetate kinase [EC:2.7.2.1] [RN:R00315]	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	carbon utilization	pyruvate metabolism		7.0	4.0	7.0	7.0	7.0	3.0
+K00925	Modulation	SCFA production (butyrate, acetate)	acetate kinase	acetate kinase [EC:2.7.2.1] [RN:R00315]	Methanogenesis, acetate => methane	Energy	C1-methane		7.0	4.0	7.0	7.0	7.0	3.0
+K00925	Modulation	SCFA production (butyrate, acetate)	k00925	acetate kinase [EC:2.7.2.1] [RN:R00315]	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	carbon utilization	pyruvate metabolism		7.0	4.0	7.0	7.0	7.0	3.0
+K00925	Modulation	SCFA production (butyrate, acetate)	k00925	acetate kinase [EC:2.7.2.1] [RN:R00315]	Methanogenesis, acetate => methane	Energy	C1-methane		7.0	4.0	7.0	7.0	7.0	3.0

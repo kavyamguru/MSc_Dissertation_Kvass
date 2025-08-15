@@ -1,0 +1,7 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+SDX	../raw_data_links/SDX.raw_1.fastq.gz	../raw_data_links/SDX.raw_2.fastq.gz
+SDY	../raw_data_links/SDY.raw_1.fastq.gz	../raw_data_links/SDY.raw_2.fastq.gz
+STDkvassX	../raw_data_links/STDkvassX.raw_1.fastq.gz	../raw_data_links/STDkvassX.raw_2.fastq.gz
+LSFkvassX	../raw_data_links/LSFkvassX.raw_1.fastq.gz	../raw_data_links/LSFkvassX.raw_2.fastq.gz
+LSFkvassY	../raw_data_links/LSFkvassY.raw_1.fastq.gz	../raw_data_links/LSFkvassY.raw_2.fastq.gz
+LSGFkvassX	../raw_data_links/LSGFkvassX.raw_1.fastq.gz	../raw_data_links/LSGFkvassX.raw_2.fastq.gz

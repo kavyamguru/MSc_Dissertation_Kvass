@@ -1,0 +1,7 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+AA	../raw_data_links/SDX_R1.trimmed.fastq.gz	../raw_data_links/SDX_R2.trimmed.fastq.gz
+B1	../raw_data_links/SDY_R1.trimmed.fastq.gz	../raw_data_links/SDY_R2.trimmed.fastq.gz
+C1	../raw_data_links/LSGF-Kvass-X_R1.trimmed.fastq.gz	../raw_data_links/LSGF-Kvass-X_R2.trimmed.fastq.gz
+D1	../raw_data_links/Std-Kvass-X_R1.trimmed.fastq.gz	../raw_data_links/Std-Kvass-X_R2.trimmed.fastq.gz
+E1	../raw_data_links/LSF-Kvass-X_R1.trimmed.fastq.gz	../raw_data_links/LSF-Kvass-X_R2.trimmed.fastq.gz
+F1	../raw_data_links/LSF-Kvass-Y_R1.trimmed.fastq.gz	../raw_data_links/LSF-Kvass-Y_R2.trimmed.fastq.gz

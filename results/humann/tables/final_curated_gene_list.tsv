@@ -1,0 +1,74 @@
+Category	KO_ID	Gene/Protein	Associated_Pathway	Function	Relevance_to_Gut_Health
+Immune_Pattern_Recognition	K10160	TLR4 (CD284)	Toll-like receptor signaling / Phagosome (KEGG)	Pattern recognition receptor sensing LPS from Gram-negative bacteria	Triggers innate immune response and phagocytosis
+Immune_Pattern_Recognition	K04391	CD14	Phagosome (KEGG)	Co-receptor for LPS recognition with TLR4	Promotes phagocyte activation
+Immune_Phagocytic_Receptors	K06463	FCGR3 (CD16)	Fc gamma R-mediated phagocytosis (KEGG)	Low-affinity Fcγ receptor on phagocytes	Triggers antibody-dependent phagocytosis
+Immune_Phagocytic_Receptors	K06498	FCGR1A (CD64)	Fc gamma R-mediated phagocytosis (KEGG)	High-affinity IgG receptor	Key in opsonized particle uptake
+Immune_Phagocytic_Receptors	K06461	ITGAM (CD11b)	Phagosome (KEGG)	Integrin αM, part of CR3	Complement-opsonized phagocytosis
+Immune_Phagocytic_Receptors	K06464	ITGB2 (CD18)	Phagosome (KEGG)	Integrin β2, CR3 complex	Leukocyte adhesion and phagocytosis
+Immune_Scavenger_Receptors	K06558	MSR1 (CD204)	Phagosome (KEGG)	Class A scavenger receptor	Clears modified lipoproteins and microbes
+Immune_Scavenger_Receptors	K13884	MARCO	Phagosome (KEGG)	Macrophage receptor with collagen structure	Binds bacteria for phagocytosis
+Immune_Complement	K03990	C3	Complement cascade / Phagosome (KEGG)	Central opsonin for complement system	Enhances phagocytosis via CR3
+Immune_Complement	K03991	MBL	Complement pathway / Phagosome (KEGG)	Mannose-binding lectin	Initiates lectin pathway, opsonization
+Immune_Cytoskeleton	K04392	RAC1	Phagosome (KEGG)	Rho GTPase regulating actin	Drives phagocytic cup formation
+Immune_Cytoskeleton	K07887	RAB5A	Phagosome / Endocytosis (KEGG)	Rab5 GTPase	Phagosome maturation
+Immune_Cytoskeleton	K07897	RAB7A	Phagosome / Endocytosis (KEGG)	Rab7 GTPase	Phagolysosome fusion
+Immune_Cytoskeleton	K05692	ACTB	Phagosome (KEGG)	β-actin	Phagosome membrane remodeling
+Immune_Killing_Effectors	K21421	NOX2	Phagosome (KEGG)	NADPH oxidase subunit	Generates ROS in phagosomes
+Immune_Killing_Effectors	K10789	MPO	Phagosome (KEGG)	Myeloperoxidase	Forms HOCl for microbicidal action
+Immune_Proteolysis	K01365	CTSL	Lysosome / Phagosome (KEGG)	Cathepsin L	Degrades microbial proteins
+Immune_Lysosome	K06528	LAMP1/2	Lysosome / Phagosome (KEGG)	Lysosome membrane proteins	Support phagolysosome integrity
+Immune_Lysosome	K02145	ATP6V1A	Lysosome / Phagosome (KEGG)	V-ATPase subunit A	Acidifies lysosomes/phagosomes
+Immune_Autophagy	K08339	ATG5	Autophagy (KEGG)	Autophagy E3-like ligase	Essential for xenophagy
+Immune_Autophagy	K08337	ATG7	Autophagy (KEGG)	E1 enzyme in autophagy	Activates conjugation cascade
+Immune_Autophagy	K17890	ATG16L1	Autophagy (KEGG)	ATG scaffold protein	Xenophagy; Crohn’s disease linked
+Immune_Endocytosis	K04646	CLTC	Endocytosis (KEGG)	Clathrin heavy chain	Forms vesicles for endocytosis
+SCFA_Production	K00929	buk	Butanoate metabolism (KEGG)	Butyrate kinase	Key in SCFA butyrate synthesis
+SCFA_Production	K00634	ptb	Butanoate metabolism (KEGG)	Phosphate butyryltransferase	Part of butyrate pathway
+SCFA_Production	K01034	but (α)	Butanoate metabolism (KEGG)	CoA-transferase (alpha subunit)	Alternative butyrate route
+SCFA_Production	K01035	but (β)	Butanoate metabolism (KEGG)	CoA-transferase (beta subunit)	Works with alpha; butyrate producers
+Bile_Acid_Metabolism	K00076	7α-HSDH	Secondary bile acid biosynthesis (KEGG)	7α-hydroxysteroid dehydrogenase	Modulates bile acid composition
+Bile_Acid_Metabolism	K15872	baiE	Secondary bile acid biosynthesis (KEGG)	Bile acid 7α-dehydratase	Converts primary to secondary BAs
+Bile_Acid_Metabolism	K01442	BSH	Secondary bile acid biosynthesis (KEGG)	Bile salt hydrolase	Deconjugates bile acids
+Tryptophan_Metabolism	K01667	tnaA	Tryptophan metabolism (KEGG)	Tryptophanase	Indole production for gut integrity
+Mucin_Degradation	K23550	nanH	Other glycan degradation (KEGG)	Sialidase	Liberates sialic acid from mucus
+Mucin_Degradation	K01206	alpha-L-fucosidase	Other glycan degradation (KEGG)	Removes fucose from glycans	Affects mucus turnover
+Barrier_Function	K06088	OCLN	Tight junction (KEGG)	Occludin	Maintains epithelial tight junctions
+Barrier_Function	K06087	CLDN	Tight junction (KEGG)	Claudin family	Strand-forming TJ proteins
+Barrier_Function	K05701	TJP1	Tight junction (KEGG)	Zonula occludens-1 (ZO-1)	TJ-cytoskeleton linker
+Immune_Cytokines	K05443	IL-10	Cytokine signaling (KEGG)	Anti-inflammatory cytokine	Limits gut inflammation
+Acidification	K00850	pfk	Glycolysis (KEGG)	Phosphofructokinase	FDA acidification
+Acidification	K01006	pkl	Glycolysis (KEGG)	Pyruvate kinase	Glycolytic acidification
+Acidification	K00016,K00018	ldh	Homolactic fermentation (KEGG)	Lactate dehydrogenase	Lactic acid production
+Acidification	K00625	pta	Acetate pathway (KEGG)	Phosphotransacetylase	Acetate formation
+Acidification	K00925	ack	Acetate pathway (KEGG)	Acetate kinase	Acetate formation
+Acidification	K00156	pox	Acetate pathway (KEGG)	Pyruvate oxidase	Acetate/CO₂ pathway
+Acidification	K01595	mle	Malolactic conversion (KEGG)	Malolactic enzyme	Malate → lactate conversion
+Acidification	K00056	mtlD	Mannitol metabolism (KEGG)	Mannitol dehydrogenase	Sugar alcohol acidification
+Acidification	K01621	xfp	Heterofermentative pathway (KEGG)	Phosphoketolase	Heterolactic acid production
+Health_Associated	K01580	gadB	GABA synthesis	Glutamate decarboxylase	GABA production
+Health_Associated	-	gadC	GABA export/import	Glutamate/GABA antiporter	GABA shuttling
+Health_Associated	K01667	tnaA	Tryptophan metabolism (KEGG)	Tryptophanase	Indole production
+Health_Associated	K01556	kynU	Tryptophan metabolism (KEGG)	Kynureninase	Kynurenine pathway
+Food_Safety	K01586	hdc	Histidine metabolism (KEGG)	Histidine decarboxylase	Histamine formation
+Food_Safety	K01593	tdc	Tyrosine metabolism (KEGG)	Tyrosine decarboxylase	Tyramine formation
+Food_Safety	K01585	ldc	Lysine metabolism (KEGG)	Lysine decarboxylase	Cadaverine formation
+Phytochemical	K05909	tanA	Gallotannin degradation (KEGG)	Tannase (subunit A)	Tannin hydrolysis
+Phytochemical	K05909	tanB	Gallotannin degradation (KEGG)	Tannase (subunit B)	Tannin hydrolysis
+Phytochemical	K01035	fae	Phenolic metabolism (KEGG)	Ferulic acid esterase	Ferulate release
+Phytochemical	K13727	pad1	Phenolic metabolism (KEGG)	Phenolic acid decarboxylase	Decarboxylates phenolics
+Aroma_Flavor	K00626	atf1	Ester formation (KEGG)	Alcohol acetyltransferase I	Acetate esters
+Aroma_Flavor	K00626	atf2	Ester formation (KEGG)	Alcohol acetyltransferase II	Acetate esters
+Aroma_Flavor	K00830	aro8	Aromatic amino acid metabolism (KEGG)	Aromatic aminotransferase I	Fusel acid to alcohol
+Aroma_Flavor	K01652	als	Diacetyl precursor (KEGG)	Acetolactate synthase	Flavor compound precursor
+Texture	K01193	gtf	EPS synthesis	Glucansucrase	Exopolysaccharide formation
+Texture	K01174	levS	EPS synthesis	Levansucrase	Fructan EPS formation
+Stress_Tolerance	K01580	gadB	Acid tolerance	Glutamate decarboxylase	Stress response
+Stress_Tolerance	K01478	arcA	Acid tolerance	Arginine deiminase	Stress response
+Stress_Tolerance	K04564	sodA	Oxidative stress	Superoxide dismutase	ROS detoxification
+Stress_Tolerance	K03781	kat	Oxidative stress	Catalase	Peroxide detoxification
+Stress_Tolerance	K00384	trxB	Redox homeostasis	Thioredoxin reductase	Redox balance
+Vitamin	K00796	folP	Folate biosynthesis	Dihydropteroate synthase	Vitamin B9 synthesis
+Vitamin	K01495	ribA	Riboflavin biosynthesis	GTP cyclohydrolase II	Vitamin B2 synthesis
+Vitamin	K03143	thiC	Thiamine biosynthesis	ThiC protein	Vitamin B1 synthesis
+Vitamin	K00833	bioA	Biotin biosynthesis	SAM-8-amino-7-oxononanoate aminotransferase	Vitamin B7 synthesis
+

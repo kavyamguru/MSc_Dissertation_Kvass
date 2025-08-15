@@ -1,0 +1,7 @@
+#SampleID	Starter_Identity	Sample_Type	Inulin	Ginger	Sugar_Content
+SDX	X	starter	no	no	none
+SDY	Y	starter	no	no	none
+STDkvassX	X	Standard kvass fermented	no	no	standard
+LSFkvassX	X	Low-Sugar kvass with fibre	yes	no	low
+LSFkvassY	Y	Low-Sugar kvass with fibre	yes	no	low
+LSGFkvassX	X	Low-Sugar ginger kvass with fibre	yes	yes	low
