@@ -1,16 +1,62 @@
-.DS_Store
-Thumbs.db
-*.swp
-*.swo
-__pycache__/
-*.pyc
-.Rhistory
-.Rproj.user/
+# -----------------------
+# Dissertation-2025 .gitignore
+# -----------------------
 
-# Bioinformatics artefacts / big binaries
+# 🔒 Raw data & metadata (confidential)
+metadata/
+raw_data_links/
+
+# 🔒 QIIME2 artifacts (contain sample IDs in provenance)
 *.qza
 *.qzv
-*.parquet
-*.tiff
-results/**/multiqc_data/
-results/**/multiqc_report.html
+
+# 🔒 Assemblies, genomes, host-related data
+assemblies*/
+genomes/
+individual_host/
+dram_db*/
+vog_latest_hmms.txt
+
+# 🔒 Intermediate & exports with sample-level info
+results/16s/qiime2/exports/
+results/16s/archives/
+results/16s_all/
+results/shotgun/
+results/taxonomic_profiling/
+
+# 🔒 Functional profiling raw outputs
+results/picrust*/
+results/humann/*/raw/
+results/humann3*/
+results/functional_profiling/
+results/dram/tables/*_input.tsv
+results/dram/tables/*_nonzero.tsv
+
+# 🔒 QC results
+results/**/multiqc*
+results/**/qc/
+results/host_alignment_stats/
+results/fastqc_16s/
+
+# 🔒 Logs, cache, work directories
+scripts/.nextflow*
+scripts/work/
+scripts/.nextflow.log*
+*.log
+
+# -----------------------
+# ✅ Keep safe/public content
+# -----------------------
+
+# Allow all code, documentation, and READMEs
+!code/**
+!**/README.md
+
+# Allow figures (final plots only, safe for CV/portfolio)
+!results/**/figures/**
+!results/**/tables/*.png
+
+# -----------------------
+# End of file
+# -----------------------
+

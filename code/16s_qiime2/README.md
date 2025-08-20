@@ -1,59 +1,114 @@
-# 16S rRNA Amplicon Sequencing — QIIME2 GTDB-R226 Workflow
+# 16S rRNA Amplicon Sequencing — QIIME2 GTDB-R226 (V3–V4 Workflow)
 
-This directory contains all scripts, documentation, and environment requirements for processing **16S rRNA amplicon sequencing data** using **QIIME2** with the **GTDB Release 226** taxonomy classifier.
+This directory contains scripts and documentation for processing **16S rRNA amplicon sequencing data** using **QIIME2** with the **GTDB Release 226 taxonomy classifier**.  
+The workflow follows the B269797 project structure and produces outputs in `results/16s/`.
 
 ---
 
-## 📜 Files in this Directory
+## 📜 Scripts in this Directory
 
-### `qiime2_16s_gtdb_r226_pipeline.sh`
-Main shell script to run the complete 16S amplicon processing workflow.
+### `run_qiime_v3v4.sh`
+End-to-end QIIME2 pipeline for V3–V4 paired-end 16S reads.  
+**Main steps:**
+1. Import raw reads (manifest).
+2. Trim primers with Cutadapt.
+3. Denoise reads with DADA2 (pseudo-pooling).
+4. Train GTDB RS226 V3–V4 classifier (if not cached).
+5. Classify features (confidence = 0.2).
+6. Generate taxa barplots.
+7. Export feature table, taxonomy, representative sequences.
+8. Collapse to **genus (L6)** and **phylum (L2)**.
+9. Build phylogenetic tree with MAFFT + FastTree.
 
-**Steps include:**
-1. Import raw paired-end reads using QIIME2.
-2. Trim primers (V3–V4 region) with Cutadapt.
-3. Denoise reads using DADA2 to obtain ASVs.
-4. Assign taxonomy using GTDB R226 Naive Bayes classifier.
-5. Generate taxa barplots for visualization.
-6. Export results for downstream analysis.
-7. Collapse ASV table to genus and phylum levels.
-8. Build a phylogenetic tree with MAFFT + FastTree.
-9. Perform alpha rarefaction analysis.
+Outputs → `results/16s/qiime_v3v4_final/`
 
 ---
 
 ### `qiime2_16s_core_metrics.sh`
-Runs **QIIME2 core diversity metrics** (alpha and beta diversity) using the phylogenetic tree and ASV table from the main pipeline.
+Runs **QIIME2 core diversity metrics** on the ASV table + tree.  
+- Alpha diversity: Shannon, Observed Features, Faith’s PD, Evenness  
+- Beta diversity: weighted/unweighted UniFrac, Bray–Curtis, Jaccard  
+
+Sampling depth: **49,000**  
+Results → `results/16s/qiime2_gtdb/core_metrics/`
 
 ---
 
 ### `qiime2_16s_coremetrics_permanova.sh`
-Runs **PERMANOVA** on multiple metadata columns and distance metrics to assess statistical significance of beta diversity differences.
+Runs **PERMANOVA** for beta diversity significance across metadata categories.  
+
+- Metadata columns:  
+  `Starter_Identity`, `Sample_Type`, `Inulin`, `Ginger`, `Sugar_Content`  
+- Distance metrics:  
+  `weighted_unifrac`, `unweighted_unifrac`, `bray_curtis`, `jaccard`  
+
+Results → `results/16s/qiime2_gtdb/core_metrics/permanova_<metadata_column>/`
+
+---
+
+### `genus_heatmap_barplot.R`
+R script for **visualising genus-level compositions** using QIIME2 export tables.  
+
+**Functions:**
+- Cleans genus labels (`g__` prefixes, unassigned taxa).  
+- Collapses duplicate genera.  
+- Selects **top 15 genera** by mean abundance.  
+- Creates:  
+  - **Heatmap** (log10-transformed relative abundances, colour: `YlGnBu`)  
+  - **Stacked barplot** (relative abundances %, custom genus colours, “Other” grouped)  
+
+**Outputs:**  
+- High-resolution **TIFF (600 dpi)**  
+- PNG (600 dpi)  
+- Vector PDF (publication-ready)  
+
+Example outputs:  
+`figure2_genus_heatmap_top15_600dpi.tiff`,  
+`genus_barplot_top15_600dpi.tiff`,  
+`genus_barplot_top15.pdf`
 
 ---
 
 ### `requirements_environment.md`
-Lists the **software tools**, **versions**, and **conda environment** required to run the pipeline.  
-Includes:
-- QIIME2 version
-- Cutadapt
-- BIOM-format
-- QIIME2 plugin list
+Lists software requirements and environment setup.  
+- QIIME2 (tested on v2024.2)  
+- Cutadapt (v4.4)  
+- BIOM-format (v2.1.12)  
 
 ---
 
 ## 📂 Input Files (relative to project root)
-- `metadata/16s/manifest_16S_raw.tsv` → Manifest mapping sample IDs to raw FASTQ files.
-- `metadata/16s/16s_metadata.tsv` → Sample metadata including experimental variables.
-- `data/reference/gtdb/gtdb-r226-16S-nb-classifier.qza` → GTDB Release 226 Naive Bayes classifier.
+
+- `metadata/16s/manifest_16S_all.tsv` → Manifest mapping sample IDs to FASTQ files.  
+- `metadata/16s/16s_metadata.tsv` → Sample metadata (experimental variables).  
+- `data/reference/gtdb/gtdb-r226-16S-seqs.qza` → GTDB reference sequences.  
+- `data/reference/gtdb/gtdb-r226-16S-tax.qza` → GTDB taxonomy reference.  
 
 ---
 
 ## 📂 Output Structure
 
-The pipeline generates results under `results/16s/qiime2_gtdb/`:
-
-<pre> ``` results/ └── 16s/ └── qiime2_gtdb/ ├── demux.qza / demux-summary.qzv ├── trimmed.qza / trimmed-summary.qzv ├── table.qza / table-summary.qzv ├── taxonomy.qza / taxonomy.qzv ├── table_genus.qza / table_phylum.qza ├── phylo_tree/ ├── alpha_rarefaction.qzv ├── exports/ └── core_metrics/ ├── alpha_diversity_results ├── beta_diversity_results └── permanova_* ``` </pre>
+results/
+└── 16s/
+├── qiime_v3v4_final/
+│ ├── demux.qza / demux.qzv
+│ ├── trimmed.qza / trimmed.qzv
+│ ├── table.qza / table.qzv
+│ ├── taxonomy.qza / taxonomy.qzv
+│ ├── taxa-barplot.qzv
+│ ├── exports/
+│ │ ├── feature-table.tsv
+│ │ ├── taxonomy.tsv
+│ │ └── rep-seqs.fasta
+│ ├── collapsed/
+│ │ ├── genus/table_genus.tsv
+│ │ └── phylum/table_phylum.tsv
+│ └── phylo_tree/rooted-tree.qza
+└── qiime2_gtdb/
+└── core_metrics/
+├── alpha_diversity_results/
+├── beta_diversity_results/
+└── permanova_<metadata_column>/
 
 
 ---
@@ -61,14 +116,15 @@ The pipeline generates results under `results/16s/qiime2_gtdb/`:
 ## 🛠 Requirements
 
 ### **Software**
-- QIIME2 (tested on 2024.2)
-- cutadapt
-- biom-format
+- QIIME2 (tested on 2024.2)  
+- cutadapt (v4.4)  
+- biom-format (v2.1.12)  
+- R (≥ 4.0) with packages: `tidyverse`, `pheatmap`, `RColorBrewer`, `ggplot2`, `ragg`  
 
 ### **Environment Setup**
 ```bash
 # Create environment
-conda env create -n qiime2-2024.2 python=3.8
+conda create -n qiime2-2024.2 python=3.8
 
 # Activate environment
 conda activate qiime2-2024.2
@@ -77,6 +133,10 @@ conda activate qiime2-2024.2
 wget https://data.qiime2.org/distro/core/qiime2-2024.2-py38-linux-conda.yml
 conda env create -n qiime2-2024.2 --file qiime2-2024.2-py38-linux-conda.yml
 
-# Install additional tools if needed
+# Install additional tools if not bundled
 conda install -c bioconda cutadapt biom-format
+
+# R packages (inside R console or script)
+install.packages(c("tidyverse", "pheatmap", "RColorBrewer", "ggplot2"))
+install.packages("ragg")   # for high-res PNG/TIFF export
 
