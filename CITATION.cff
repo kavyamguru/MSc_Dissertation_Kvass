@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "MSc_Dissertation_Kvass"
+message: "If you use this work, please cite this repository."
+type: software
+authors:
+  - family-names: "G"
+    given-names: "Kavya"
+repository-code: "https://github.com/kavyamguru/MSc_Dissertation_Kvass"
