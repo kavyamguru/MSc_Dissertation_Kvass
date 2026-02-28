@@ -41,3 +41,13 @@ This project evaluates how dietary fibre supplementation impacts microbial compo
 
 ## Contact
 For collaboration or role-related discussion, connect via GitHub profile: https://github.com/kavyamguru
+
+## Code Quality (SonarCloud)
+- Config: `sonar-project.properties` (scans only \`code/\`).
+- CI: `.github/workflows/sonarcloud.yml` runs on pushes/PRs to main/master.
+- Required secrets in GitHub repo settings → **Secrets and variables → Actions**:
+  - `SONAR_TOKEN` : SonarCloud project token.
+- Default SonarCloud project identifiers:
+  - `organization`: `kavyamguru`
+  - `projectKey` & `projectName`: `kavyamguru_MSc_Dissertation_Kvass`.
+- To run locally (optional): install `sonar-scanner`, export `SONAR_TOKEN`, then run `sonar-scanner` from repo root.
