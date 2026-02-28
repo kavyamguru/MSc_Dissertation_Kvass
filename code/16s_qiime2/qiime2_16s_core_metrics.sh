@@ -19,7 +19,7 @@ SAMPLING_DEPTH=49000
 DIVERSITY_DIR="$OUTDIR/core_metrics"
 
 # ----------- Remove Output Directory If It Exists -----------
-if [ -d "$DIVERSITY_DIR" ]; then
+if [[ -d "$DIVERSITY_DIR" ]]; then
   echo "⚠️ Directory already exists, removing: $DIVERSITY_DIR"
   rm -rf "$DIVERSITY_DIR"
 fi

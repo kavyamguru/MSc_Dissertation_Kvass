@@ -23,22 +23,24 @@ THREADS=32
 # Function to run Kaiju + Table
 # -------------------------
 run_kaiju () {
-    local R1=$1
-    local R2=$2
-    local SAMPLE=$3
-    local LABEL=$4  # "host" or "yeast"
+    local r1=$1
+    local r2=$2
+    local sample=$3
+    local label=$4  # "host" or "yeast"
 
-    echo "→ Running Kaiju on $SAMPLE [$LABEL]"
+    echo "→ Running Kaiju on $sample [$label]"
 
     # Classification
-    kaiju -t "$TAX_NODES" -f "$KAIJU_DB" -i "$R1" -j "$R2" \
-          -o "$OUT_DIR/$LABEL/raw/${SAMPLE}_kaiju.out" \
+    kaiju -t "$TAX_NODES" -f "$KAIJU_DB" -i "$r1" -j "$r2" \
+          -o "$OUT_DIR/$label/raw/${sample}_kaiju.out" \
           -z $THREADS -a greedy -e 10 -s 65
 
     # Create summary table
     kaiju2table -t "$TAX_NODES" -n "$TAX_NAMES" -r species \
-          -o "$OUT_DIR/$LABEL/table/${SAMPLE}_kaiju_species.tsv" \
-          "$OUT_DIR/$LABEL/raw/${SAMPLE}_kaiju.out"
+          -o "$OUT_DIR/$label/table/${sample}_kaiju_species.tsv" \
+          "$OUT_DIR/$label/raw/${sample}_kaiju.out"
+
+    return 0
 }
 
 # -------------------------
